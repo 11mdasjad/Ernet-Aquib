@@ -1,0 +1,488 @@
+[
+  {
+    "item": "Educational & research domains",
+    "route": "/services/domain-registration",
+    "source": "https://registry.ernet.in/guidelines",
+    "verified": "2026-10-24",
+    "status": "Published service",
+    "implemented": "Authored informational page and official service link",
+    "remaining": "Current eligibility, availability and account actions are determined by official service."
+  },
+  {
+    "item": "DNS services",
+    "route": "/services/dns",
+    "source": "https://registry.ernet.in/guidelines",
+    "verified": "2026-10-24",
+    "status": "Published service",
+    "implemented": "Authored informational page and official service link",
+    "remaining": "Current eligibility, availability and account actions are determined by official service."
+  },
+  {
+    "item": "Website as a Service",
+    "route": "/services/website-as-a-service",
+    "source": "https://registry.ernet.in/vas",
+    "verified": "2026-10-24",
+    "status": "Published service",
+    "implemented": "Authored informational page and official service link",
+    "remaining": "Current eligibility, availability and account actions are determined by official service."
+  },
+  {
+    "item": "Learning Management as a Service",
+    "route": "/services/learning-management",
+    "source": "https://registry.ernet.in/vas",
+    "verified": "2026-10-24",
+    "status": "Published service",
+    "implemented": "Authored informational page and official service link",
+    "remaining": "Current eligibility, availability and account actions are determined by official service."
+  },
+  {
+    "item": "Web hosting & email",
+    "route": "/services/web-hosting",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A5%87%E0%A4%AC-%E0%A4%B9%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97",
+    "verified": "2026-10-24",
+    "status": "Published description; confirm current platform",
+    "implemented": "Authored informational page and official service link",
+    "remaining": "Current eligibility, availability and account actions are determined by official service."
+  },
+  {
+    "item": "Campus Wi-Fi & networking",
+    "route": "/services/campus-networking",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%95%E0%A5%88%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B8-%E0%A4%B5%E0%A4%BE%E0%A4%87%E0%A4%A1-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%82%E0%A4%97",
+    "verified": "2026-10-24",
+    "status": "Published service",
+    "implemented": "Authored informational page and official service link",
+    "remaining": "Current eligibility, availability and account actions are determined by official service."
+  },
+  {
+    "item": "eduroam academic roaming",
+    "route": "/services/eduroam",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AE%E0%A4%A6%E0%A4%A6-%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97",
+    "verified": "2026-10-24",
+    "status": "Official portal linked",
+    "implemented": "Authored informational page and official service link",
+    "remaining": "Current eligibility, availability and account actions are determined by official service."
+  },
+  {
+    "item": "ICT consultancy & implementation",
+    "route": "/services/ict-consultancy",
+    "source": "https://registry.ernet.in/",
+    "verified": "2026-10-24",
+    "status": "Published institutional mandate",
+    "implemented": "Authored informational page and official service link",
+    "remaining": "Current eligibility, availability and account actions are determined by official service."
+  },
+  {
+    "item": "Terrestrial & satellite connectivity",
+    "route": "/services/connectivity",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+    "verified": "2026-10-24",
+    "status": "Published architecture; availability by enquiry",
+    "implemented": "Authored informational page and official service link",
+    "remaining": "Current eligibility, availability and account actions are determined by official service."
+  },
+  {
+    "item": "IPv6 & next-generation networks",
+    "route": "/services/ipv6",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+    "verified": "2026-10-24",
+    "status": "Published network capability",
+    "implemented": "Authored informational page and official service link",
+    "remaining": "Current eligibility, availability and account actions are determined by official service."
+  },
+  {
+    "item": "Training & capacity building",
+    "route": "/services/training",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3",
+    "verified": "2026-10-24",
+    "status": "Published activity; no live enrollment verified",
+    "implemented": "Authored informational page and official service link",
+    "remaining": "Current eligibility, availability and account actions are determined by official service."
+  },
+  {
+    "item": "Smart classrooms & educational technology",
+    "route": "/services/smart-classrooms",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%9F%E0%A5%87%E0%A4%B2%E0%A5%80-%E0%A4%8F%E0%A4%9C%E0%A5%81%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%A8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%8F%E0%A4%A8%E0%A4%88%E0%A4%86%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80-%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B2-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A4%B0%E0%A5%82%E0%A4%AE-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%A8%E0%A4%BE",
+    "verified": "2026-10-24",
+    "status": "Documented projects",
+    "implemented": "Authored informational page and official service link",
+    "remaining": "Current eligibility, availability and account actions are determined by official service."
+  },
+  {
+    "item": "Video conferencing & collaboration",
+    "route": "/services/collaboration",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B-%E0%A4%95%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%97",
+    "verified": "2026-10-24",
+    "status": "Historical implementation portfolio",
+    "implemented": "Authored informational page and official service link",
+    "remaining": "Current eligibility, availability and account actions are determined by official service."
+  },
+  {
+    "item": "Institutional data centre initiatives",
+    "route": "/services/infrastructure",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0",
+    "verified": "2026-10-24",
+    "status": "Historical project and hosting infrastructure",
+    "implemented": "Authored informational page and official service link",
+    "remaining": "Current eligibility, availability and account actions are determined by official service."
+  },
+  {
+    "item": "E-classrooms for 50 medical colleges",
+    "route": "/projects/medical-e-classrooms",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/50-%E0%A4%AE%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%95%E0%A4%B2-%E0%A4%95%E0%A5%89%E0%A4%B2%E0%A5%87%E0%A4%9C%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%88-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8-%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%A8%E0%A4%BE",
+    "verified": "2026-10-24",
+    "status": "Historical implementation",
+    "implemented": "Detailed project summary, verified scope and source link",
+    "remaining": "Published project history does not verify current operational status."
+  },
+  {
+    "item": "Centre of Excellence for IoT",
+    "route": "/projects/iot-centre",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/iot-meity-%E0%A4%A8%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%89%E0%A4%AE-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%A4%E0%A4%BE-%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0-%E0%A4%86%E0%A4%88%E0%A4%93%E0%A4%9F%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%80-%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%B6%E0%A5%81%E0%A4%B0%E0%A5%82-%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AE%E0%A4%A6%E0%A4%A6-0",
+    "verified": "2026-10-24",
+    "status": "Published project; current status unconfirmed",
+    "implemented": "Detailed project summary, verified scope and source link",
+    "remaining": "Published project history does not verify current operational status."
+  },
+  {
+    "item": "LiFi experimental testbed",
+    "route": "/projects/lifi-testbed",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/lifi-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3",
+    "verified": "2026-10-24",
+    "status": "Historical pilot, 2017–2019",
+    "implemented": "Detailed project summary, verified scope and source link",
+    "remaining": "Published project history does not verify current operational status."
+  },
+  {
+    "item": "Optical wireless access networks",
+    "route": "/projects/optical-wireless",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A5%80%E0%A4%A3-%E0%A4%94%E0%A4%B0-%E0%A4%B6%E0%A4%B9%E0%A4%B0%E0%A5%80-%E0%A4%B8%E0%A4%82%E0%A4%9A%E0%A4%BE%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%91%E0%A4%AA%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95%E0%A4%B2-%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A4%B2%E0%A5%87%E0%A4%B8-%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%87%E0%A4%B8-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+    "verified": "2026-10-24",
+    "status": "Published project period 2019–2022",
+    "implemented": "Detailed project summary, verified scope and source link",
+    "remaining": "Published project history does not verify current operational status."
+  },
+  {
+    "item": "Smart virtual classrooms in the North East",
+    "route": "/projects/ner-classrooms",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%9F%E0%A5%87%E0%A4%B2%E0%A5%80-%E0%A4%8F%E0%A4%9C%E0%A5%81%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%A8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%8F%E0%A4%A8%E0%A4%88%E0%A4%86%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80-%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B2-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A4%B0%E0%A5%82%E0%A4%AE-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%A8%E0%A4%BE",
+    "verified": "2026-10-24",
+    "status": "Published implementation; current O&M unconfirmed",
+    "implemented": "Detailed project summary, verified scope and source link",
+    "remaining": "Published project history does not verify current operational status."
+  },
+  {
+    "item": "Accessible government websites",
+    "route": "/projects/accessible-websites",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%95%E0%A5%80-%E0%A4%B5%E0%A5%87%E0%A4%AC%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8B-gigw-%E0%A4%94%E0%A4%B0-wcag-%E0%A4%8F%E0%A4%8F-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B0%E0%A5%82%E0%A4%AA-%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%87-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%A4-%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A4%BE-0",
+    "verified": "2026-10-24",
+    "status": "Published project; current status unconfirmed",
+    "implemented": "Detailed project summary, verified scope and source link",
+    "remaining": "Published project history does not verify current operational status."
+  },
+  {
+    "item": "Information Security Education & Awareness",
+    "route": "/projects/isea",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%94%E0%A4%B0-%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A5%82%E0%A4%95%E0%A4%A4%E0%A4%BE-%E0%A4%86%E0%A4%88%E0%A4%8F%E0%A4%B8%E0%A4%88%E0%A4%8F-%E0%A4%AB%E0%A5%87%E0%A4%9C-ii-0",
+    "verified": "2026-10-24",
+    "status": "Historical Phase II, 2015–2020",
+    "implemented": "Detailed project summary, verified scope and source link",
+    "remaining": "Published project history does not verify current operational status."
+  },
+  {
+    "item": "ICAR institutional data centre",
+    "route": "/projects/icar-data-centre",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0",
+    "verified": "2026-10-24",
+    "status": "Listed as completed project",
+    "implemented": "Detailed project summary, verified scope and source link",
+    "remaining": "Published project history does not verify current operational status."
+  },
+  {
+    "item": "ICT centres for rural schools",
+    "route": "/projects/rural-ict",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A5%80%E0%A4%A3-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%9F%E0%A5%80-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0",
+    "verified": "2026-10-24",
+    "status": "Listed as completed project",
+    "implemented": "Detailed project summary, verified scope and source link",
+    "remaining": "Published project history does not verify current operational status."
+  },
+  {
+    "item": "ICT vocational centres for students with disabilities",
+    "route": "/projects/accessible-ict",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%85%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%9F%E0%A5%80-%E0%A4%B5%E0%A5%8B%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%B2-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0",
+    "verified": "2026-10-24",
+    "status": "Listed as completed project",
+    "implemented": "Detailed project summary, verified scope and source link",
+    "remaining": "Published project history does not verify current operational status."
+  },
+  {
+    "item": "IT infrastructure and LAN for school e-learning",
+    "route": "/projects/school-lan",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%82%E0%A4%B2%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%88-%E0%A4%B2%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%86%E0%A4%88%E0%A4%9F%E0%A5%80-%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0-%E0%A4%94%E0%A4%B0-%E0%A4%B2%E0%A5%88%E0%A4%A8-0",
+    "verified": "2026-10-24",
+    "status": "Listed as completed project",
+    "implemented": "Detailed project summary, verified scope and source link",
+    "remaining": "Published project history does not verify current operational status."
+  },
+  {
+    "item": "Digital library repository",
+    "route": "/projects/digital-library",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BF%E0%A4%9F%E0%A4%B2-%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%B0%E0%A5%87%E0%A4%AA%E0%A5%8B%E0%A4%9C%E0%A4%BF%E0%A4%9F%E0%A4%B0%E0%A5%80",
+    "verified": "2026-10-24",
+    "status": "Listed as completed project",
+    "implemented": "Detailed project summary, verified scope and source link",
+    "remaining": "Published project history does not verify current operational status."
+  },
+  {
+    "item": "Annual Report 2024–25 (Hindi)",
+    "route": "/resources",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Hindi Book.pdf",
+    "verified": "2026-10-24",
+    "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
+    "implemented": "Searchable/filterable document index and direct official PDF link",
+    "remaining": "PDF contents and PDF accessibility not fully audited."
+  },
+  {
+    "item": "Annual Report 2022–23 (Hindi)",
+    "route": "/resources",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Final Hindi AR 2022-23.pdf",
+    "verified": "2026-10-24",
+    "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
+    "implemented": "Searchable/filterable document index and direct official PDF link",
+    "remaining": "PDF contents and PDF accessibility not fully audited."
+  },
+  {
+    "item": "Annual Report 2020–21",
+    "route": "/resources",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Annual%20report2021.pdf",
+    "verified": "2026-10-24",
+    "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
+    "implemented": "Searchable/filterable document index and direct official PDF link",
+    "remaining": "PDF contents and PDF accessibility not fully audited."
+  },
+  {
+    "item": "Annual Report 2019–20 (English)",
+    "route": "/resources",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/ERNET_ANNUAL%20REPORT_English-19-20.pdf",
+    "verified": "2026-10-24",
+    "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
+    "implemented": "Searchable/filterable document index and direct official PDF link",
+    "remaining": "PDF contents and PDF accessibility not fully audited."
+  },
+  {
+    "item": "Domain registration portal — user guide",
+    "route": "/resources",
+    "source": "https://registry.ernet.in/ERNET_HelpFile.pdf",
+    "verified": "2026-10-24",
+    "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
+    "implemented": "Searchable/filterable document index and direct official PDF link",
+    "remaining": "PDF contents and PDF accessibility not fully audited."
+  },
+  {
+    "item": "Domain application letter — Annexure A",
+    "route": "/resources",
+    "source": "https://registry.ernet.in/assets/Annexure-A.pdf",
+    "verified": "2026-10-24",
+    "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
+    "implemented": "Searchable/filterable document index and direct official PDF link",
+    "remaining": "PDF contents and PDF accessibility not fully audited."
+  },
+  {
+    "item": "Domain undertaking — Annexure B",
+    "route": "/resources",
+    "source": "https://registry.ernet.in/assets/Annexure-B.pdf",
+    "verified": "2026-10-24",
+    "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
+    "implemented": "Searchable/filterable document index and direct official PDF link",
+    "remaining": "PDF contents and PDF accessibility not fully audited."
+  },
+  {
+    "item": "Office memorandum: hosting government websites",
+    "route": "/resources",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Mha_om-website-hosting.pdf",
+    "verified": "2026-10-24",
+    "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
+    "implemented": "Searchable/filterable document index and direct official PDF link",
+    "remaining": "PDF contents and PDF accessibility not fully audited."
+  },
+  {
+    "item": "6LoWPAN research display",
+    "route": "/resources",
+    "source": "https://ernet.in/sites/default/files/others/6LoWPAN_Display.pdf",
+    "verified": "2026-10-24",
+    "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
+    "implemented": "Searchable/filterable document index and direct official PDF link",
+    "remaining": "PDF contents and PDF accessibility not fully audited."
+  },
+  {
+    "item": "Mobile IPv6 research display",
+    "route": "/resources",
+    "source": "https://ernet.in/sites/default/files/others/MIPv6_Display.pdf",
+    "verified": "2026-10-24",
+    "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
+    "implemented": "Searchable/filterable document index and direct official PDF link",
+    "remaining": "PDF contents and PDF accessibility not fully audited."
+  },
+  {
+    "item": "VSESS research display",
+    "route": "/resources",
+    "source": "https://ernet.in/sites/default/files/others/VSESS_Display.pdf",
+    "verified": "2026-10-24",
+    "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
+    "implemented": "Searchable/filterable document index and direct official PDF link",
+    "remaining": "PDF contents and PDF accessibility not fully audited."
+  },
+  {
+    "item": "Medical colleges covered under NMCN",
+    "route": "/resources",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/List%20of%20Colleges%20Under%20NMCN.pdf",
+    "verified": "2026-10-24",
+    "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
+    "implemented": "Searchable/filterable document index and direct official PDF link",
+    "remaining": "PDF contents and PDF accessibility not fully audited."
+  },
+  {
+    "item": "Delegation of powers",
+    "route": "/resources",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Delegation-of-power.pdf",
+    "verified": "2026-10-24",
+    "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
+    "implemented": "Searchable/filterable document index and direct official PDF link",
+    "remaining": "PDF contents and PDF accessibility not fully audited."
+  },
+  {
+    "item": "ERNET bylaws",
+    "route": "/resources",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Point(V)ByelawsAnnex-III(3)060317.pdf",
+    "verified": "2026-10-24",
+    "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
+    "implemented": "Searchable/filterable document index and direct official PDF link",
+    "remaining": "PDF contents and PDF accessibility not fully audited."
+  },
+  {
+    "item": "Project Manager Level 02 recruitment notice",
+    "route": "/resources",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Project Manager Level 02.pdf",
+    "verified": "2026-10-24",
+    "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
+    "implemented": "Searchable/filterable document index and direct official PDF link",
+    "remaining": "PDF contents and PDF accessibility not fully audited."
+  },
+  {
+    "item": "Comprehensive annual maintenance of ICT equipment",
+    "route": "/news",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%88-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%87%E0%A4%9F%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%B8-gem-%E0%A4%95%E0%A5%87-%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AE-%E0%A4%B8%E0%A5%87-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%B2%E0%A5%88%E0%A4%AA%E0%A4%9F%E0%A5%89%E0%A4%AA-%E0%A4%A1%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%9F%E0%A5%89%E0%A4%AA-%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B0-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9C-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%88%E0%A4%A8%E0%A4%B0-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+    "verified": "2026-10-24",
+    "status": "Published closing date passed",
+    "implemented": "Notice detail with document links and published dates",
+    "remaining": "Check source for later amendments."
+  },
+  {
+    "item": "Supply of ICT infrastructure in KGBVs",
+    "route": "/news",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%88-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%87%E0%A4%9F%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%B8-gem-%E0%A4%95%E0%A5%87-%E0%A4%9C%E0%A4%BC%E0%A4%B0%E0%A4%BF%E0%A4%8F-%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%82%E0%A4%B0%E0%A4%AC%E0%A4%BE-%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%A7%E0%A5%80-%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A5%8B%E0%A4%82-kgbvs-%E0%A4%AE%E0%A5%87%E0%A4%82-ict",
+    "verified": "2026-10-24",
+    "status": "Published closing date passed",
+    "implemented": "Notice detail with document links and published dates",
+    "remaining": "Check source for later amendments."
+  },
+  {
+    "item": "Recruitment of Project Manager Level 02",
+    "route": "/news",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%AE%E0%A5%88%E0%A4%A8%E0%A5%87%E0%A4%9C%E0%A4%B0-%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B0-02-%E0%A4%95%E0%A5%80-%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%80",
+    "verified": "2026-10-24",
+    "status": "Published notice; verify updates on official source",
+    "implemented": "Notice detail with document links and published dates",
+    "remaining": "Check source for later amendments."
+  },
+  {
+    "item": "Project Engineer Level 02 — ICT & Data Centre project",
+    "route": "/news",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%9F%E0%A5%80-%E0%A4%8F%E0%A4%B5%E0%A4%82-%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0-%E0%A4%B2%E0%A5%87%E0%A4%B5%E0%A4%B2-02-%E0%A4%95%E0%A5%80-%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%80",
+    "verified": "2026-10-24",
+    "status": "Published notice; verify updates on official source",
+    "implemented": "Notice detail with document links and published dates",
+    "remaining": "Check source for later amendments."
+  },
+  {
+    "item": "Vision, mission & objectives",
+    "route": "/about/objectives",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B2%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8D%E0%A4%AF",
+    "verified": "2026-10-24",
+    "status": "Published institutional description",
+    "implemented": "Authored summary with linked official records",
+    "remaining": "Names and mutable roles should be checked in official current directory."
+  },
+  {
+    "item": "Organization & governance",
+    "route": "/about/organization",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A8%E0%A5%87%E0%A4%9F-%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A0%E0%A4%A8-%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F1",
+    "verified": "2026-10-24",
+    "status": "Published institutional description",
+    "implemented": "Authored summary with linked official records",
+    "remaining": "Names and mutable roles should be checked in official current directory."
+  },
+  {
+    "item": "Citizen’s Charter",
+    "route": "/about/citizen-charter",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A4%BF%E0%A4%95-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0",
+    "verified": "2026-10-24",
+    "status": "Published institutional description",
+    "implemented": "Authored summary with linked official records",
+    "remaining": "Names and mutable roles should be checked in official current directory."
+  },
+  {
+    "item": "Acts, rules & governance documents",
+    "route": "/about/acts-rules",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE-%E0%A4%94%E0%A4%B0-%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE",
+    "verified": "2026-10-24",
+    "status": "Published institutional description",
+    "implemented": "Authored summary with linked official records",
+    "remaining": "Names and mutable roles should be checked in official current directory."
+  },
+  {
+    "item": "Right to Information",
+    "route": "/rti",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0",
+    "verified": "2026-10-24",
+    "status": "Published institutional description",
+    "implemented": "Authored summary with linked official records",
+    "remaining": "Names and mutable roles should be checked in official current directory."
+  },
+  {
+    "item": "Proactive disclosures",
+    "route": "/rti",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%9F%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3",
+    "verified": "2026-10-24",
+    "status": "Published institutional description",
+    "implemented": "Authored summary with linked official records",
+    "remaining": "Names and mutable roles should be checked in official current directory."
+  },
+  {
+    "item": "ERNET centres",
+    "route": "/about/centres",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A8%E0%A5%87%E0%A4%9F-%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0",
+    "verified": "2026-10-24",
+    "status": "Published institutional description",
+    "implemented": "Authored summary with linked official records",
+    "remaining": "Names and mutable roles should be checked in official current directory."
+  },
+  {
+    "item": "Research & development",
+    "route": "/research",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A4%82%E0%A4%A7%E0%A4%BE%E0%A4%A8-%E0%A4%8F%E0%A4%B5%E0%A4%82-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8",
+    "verified": "2026-10-24",
+    "status": "Published institutional description",
+    "implemented": "Authored summary with linked official records",
+    "remaining": "Names and mutable roles should be checked in official current directory."
+  },
+  {
+    "item": "Events & workshops archive",
+    "route": "/events",
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A4%BF%E0%A4%9B%E0%A4%B2%E0%A5%87-%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8",
+    "verified": "2026-10-24",
+    "status": "Published institutional description",
+    "implemented": "Authored summary with linked official records",
+    "remaining": "Names and mutable roles should be checked in official current directory."
+  }
+]

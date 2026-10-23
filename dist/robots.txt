@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Independent private reference website; intentionally not indexed.

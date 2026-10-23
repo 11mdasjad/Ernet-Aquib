@@ -1,0 +1,109 @@
+{
+  "retrieved": "2026-10-24",
+  "assets": [
+    {
+      "file": "assets/hero-south-block.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:New_Delhi_government_block_03-2016_img4.jpg",
+      "author": "A.Savin, Wikipedia",
+      "license": "Free Art License",
+      "license_url": "https://artlibre.org/licence/lal/en/",
+      "note": "Resized to 1280px by Wikimedia thumbnail service.",
+      "width": 1280,
+      "height": 720,
+      "bytes": 280127
+    },
+    {
+      "file": "assets/hero-delhi.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:New_Delhi_government_block_03-2016_img5.jpg",
+      "author": "A.Savin, Wikipedia",
+      "license": "Free Art License",
+      "license_url": "https://artlibre.org/licence/lal/en/",
+      "note": "Resized to 1280px by Wikimedia thumbnail service; alternate hero.",
+      "width": 1280,
+      "height": 640,
+      "bytes": 174947
+    },
+    {
+      "file": "assets/satellite.jpg",
+      "source": "https://unsplash.com/photos/3-fuFf4gPNY",
+      "author": "Gontran Isnard",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "note": "Resized to 900px using Unsplash image service.",
+      "width": 900,
+      "height": 600,
+      "bytes": 76589
+    },
+    {
+      "file": "assets/servers.jpg",
+      "source": "https://unsplash.com/photos/klWUhr-wPJ8",
+      "author": "imgix",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "note": "Resized to 900px using Unsplash image service. Illustrative equipment, not an ERNET facility.",
+      "width": 900,
+      "height": 537,
+      "bytes": 121294
+    },
+    {
+      "file": "assets/network.jpg",
+      "source": "https://unsplash.com/photos/JyRTi3LoQnc",
+      "author": "Denny Müller",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "note": "Resized to 900px using Unsplash image service.",
+      "width": 900,
+      "height": 600,
+      "bytes": 68178
+    },
+    {
+      "file": "assets/education.jpg",
+      "source": "https://unsplash.com/photos/8gAbl776pc0",
+      "author": "Vitaly Gariev",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "note": "Resized to 900px using Unsplash image service. Illustrative students.",
+      "width": 900,
+      "height": 506,
+      "bytes": 89274
+    },
+    {
+      "file": "assets/domains.jpg",
+      "source": "https://unsplash.com/photos/pLybV75vkP4",
+      "author": "Hasnain Ayaz",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "note": "Resized to 900px using Unsplash image service. Illustrative computing.",
+      "width": 900,
+      "height": 1350,
+      "bytes": 84543
+    },
+    {
+      "file": "assets/campus.jpg",
+      "source": "https://unsplash.com/photos/yX6DSwboaZk",
+      "author": "Vincent Y @USA",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "note": "Resized to 900px using Unsplash image service. Northwestern University; illustrative campus, not an ERNET institution claim.",
+      "width": 900,
+      "height": 1350,
+      "bytes": 332041
+    }
+  ],
+  "reference_only": [
+    {
+      "file": "research/reference-assets/ernet-logo.png",
+      "source": "https://ernet.in/sites/all/themes/ernet/logo.png",
+      "note": "Official reference only. Not included in dist. Reproduction rights not established."
+    },
+    {
+      "file": "research/reference-assets/emblem-india.png",
+      "source": "https://ernet.in/sites/all/themes/ernet/images/Emblem_of_India1.png",
+      "note": "Official reference only. Not included in dist. Reproduction rights not established."
+    }
+  ],
+  "official_rights_policy": {
+    "url": "https://registry.ernet.in/website-policy",
+    "summary": "Registry policy requires proper permission by email for reproduction. No permission is assumed for official artwork."
+  }
+}

@@ -1,0 +1,1532 @@
+[
+  {
+    "url": "https://eduroam.ernet.in/",
+    "title": "Eduroam",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://ernet.in/content/eduroam-0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://ernet.in/content/nadt",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://ernet.in/content/secretarymeity-visit-04012024",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://ernet.in/content/web-hosting-services-0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://ernet.in/network",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://ernet.in/research-development",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://ernet.in/services",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://ernet.in/training",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://registry.ernet.in/",
+    "title": "Ernet India",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://registry.ernet.in/contact-us",
+    "title": "Ernet India",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://registry.ernet.in/download-documents",
+    "title": "Ernet India",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://registry.ernet.in/guidelines",
+    "title": "Ernet India",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://registry.ernet.in/privacy-policy",
+    "title": "Ernet India",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://registry.ernet.in/tariff",
+    "title": "Ernet India",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://registry.ernet.in/tariff_vas",
+    "title": "Ernet India",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://registry.ernet.in/terms-conditions",
+    "title": "Ernet India",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://registry.ernet.in/vas",
+    "title": "Ernet India",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/",
+    "title": "Welcome to ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट   | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%3C?php%20global%20%24base_url%3B%20print%20%24base_url%3B?%3E/hi/%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A4%82%E0%A4%A7%E0%A4%BE%E0%A4%A8-%E0%A4%8F%E0%A4%B5%E0%A4%82-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%3C?php%20global%20%24base_url%3B%20print%20%24base_url%3B?%3E/hi/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/archive_recruitment",
+    "title": "पुरालेख  करियर | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/circulars",
+    "title": "परिपत्र | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE-%E0%A4%94%E0%A4%B0-%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE",
+    "title": "अधिनियम और नियम | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%80-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B7%E0%A4%A6",
+    "title": "अधिशासी परिषद | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A5%8B-%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A5%87%E0%A4%82",
+    "title": "अपने मंत्री को जानें | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%86%E0%A4%9C%E0%A4%BE%E0%A4%A6%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%85%E0%A4%AE%E0%A5%83%E0%A4%A4-%E0%A4%AE%E0%A4%B9%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%B5",
+    "title": "आजादी का अमृत महोत्सव | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8",
+    "title": "आयोजन | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8",
+    "title": "इतिहास | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A8%E0%A5%87%E0%A4%9F-%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%A8%E0%A4%BF%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE",
+    "title": "ईआरनेट कर्मचारी निदेशिका | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A8%E0%A5%87%E0%A4%9F-%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0",
+    "title": "ई.आर.नेट केन्द्र | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%88%E0%A4%86%E0%A4%B0%E0%A4%A8%E0%A5%87%E0%A4%9F-%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A0%E0%A4%A8-%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F1",
+    "title": "ई.आर.नेट इंडिया का संगठन चार्ट | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%8F%E0%A4%A8%E0%A4%86%E0%A4%88%E0%A4%9F%E0%A5%80%E0%A4%9F%E0%A5%80%E0%A4%86%E0%A4%B0",
+    "title": "एनआईटीटीआर | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%B8%E0%A4%AE%E0%A4%BF%E0%A4%A4%E0%A4%BF",
+    "title": "कार्यकारी समिति  | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF-%E0%A4%86%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%A4-%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE",
+    "title": "कार्य आधारित शिक्षा | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%95%E0%A5%88%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B8-%E0%A4%B5%E0%A4%BE%E0%A4%87%E0%A4%A1-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%82%E0%A4%97",
+    "title": "कैम्पस वाइड नेटवर्किंग | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%95%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9F-%E0%A4%B9%E0%A4%BE%E0%A4%87%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A5%8D%E0%A4%B8",
+    "title": "कॉर्पोरेट हाइलाइट्स | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%97%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A5%80%E0%A4%B2-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82",
+    "title": "गतिशील परियोजनाएं | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A1%E0%A5%8B%E0%A4%AE%E0%A5%87%E0%A4%A8-%E0%A4%B0%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%A8",
+    "title": "डोमेन रजिस्ट्रेशन | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A4%BF%E0%A4%95-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0",
+    "title": "नागरिक अधिकारपत्र | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82-0",
+    "title": "परियोजनाएं | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A4%BE%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%9A%E0%A5%87%E0%A4%B0%E0%A5%80-%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF",
+    "title": "पांडिचेरी विश्वविद्यालय | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A4%BF%E0%A4%9B%E0%A4%B2%E0%A5%87-%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8",
+    "title": "पिछले आयोजन | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82",
+    "title": "पूर्ण परियोजनाएं | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AE%E0%A4%A6%E0%A4%A6-%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97",
+    "title": "मदद विभाग | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%95",
+    "title": "महानिदेशक डेस्क | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B2%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8D%E0%A4%AF",
+    "title": "लक्ष्य | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A5%87%E0%A4%AC-%E0%A4%B9%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97",
+    "title": "वेब होस्टिंग | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%95-%E0%A4%95%E0%A4%B0%E0%A5%87",
+    "title": "संपर्क करे | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%9A%E0%A4%BF%E0%A4%B5-%E0%A4%8F%E0%A4%AE%E0%A4%88%E0%A4%86%E0%A4%88%E0%A4%9F%E0%A5%80%E0%A4%B5%E0%A4%BE%E0%A4%88",
+    "title": "सचिव-एमईआईटीवाई | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0",
+    "title": "सूचना का अधिकार | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%9F%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3",
+    "title": "सूचना का अधिकार-प्रकटीकरण | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82",
+    "title": "हमारे बारे में | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%97%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A4%A4%E0%A4%BE-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3",
+    "title": "अभिगम्यता विवरण | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97-%E0%A4%95%E0%A5%80-%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%87%E0%A4%82",
+    "title": "उपयोग की शर्तें | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%96%E0%A4%82%E0%A4%A1%E0%A4%A8",
+    "title": "खंडन | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%97%E0%A5%8B%E0%A4%AA%E0%A4%A8%E0%A5%80%E0%A4%AF%E0%A4%A4%E0%A4%BE-%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF",
+    "title": "गोपनीयता नीति | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE-%E0%A4%B5-%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%87%E0%A4%82",
+    "title": "नियम व शर्तें | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82",
+    "title": "परियोजनाएं | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE",
+    "title": "प्रतिक्रिया | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AE%E0%A4%A6%E0%A4%A6",
+    "title": "मदद | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3",
+    "title": "वार्षिक विवरण | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A5%87%E0%A4%AC-%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%95",
+    "title": "वेब सूचना प्रबंधक | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%95-%E0%A4%95%E0%A4%B0%E0%A5%87",
+    "title": "संपर्क करे | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF",
+    "title": "सर्वाधिकार नीति | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%9F-%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0",
+    "title": "साइट मानचित्र | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%82%E0%A4%A8-%E0%A4%B0%E0%A5%80%E0%A4%A1%E0%A4%B0-%E0%A4%B8%E0%A5%81%E0%A4%B2%E0%A4%AD%E0%A4%A4",
+    "title": "स्क्रींन रीडर सुलभत | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82-2",
+    "title": "हमारे बारे में | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B9%E0%A4%BE%E0%A4%87%E0%A4%AA%E0%A4%B0%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%95-%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF",
+    "title": "हाइपरलिंक नीति | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-%E0%A4%97%E0%A4%A4%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81",
+    "title": "हिन्दी गतिविधियाँ | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%8F%E0%A4%81",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/recruitment",
+    "title": "करियर | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/tender",
+    "title": "निविदाएं | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%3C",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/archive_circulars",
+    "title": "पुरालेख  परिपत्र | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/archive_tender",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/archived-tenders",
+    "title": "निविदाएं | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/50-%E0%A4%AE%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%95%E0%A4%B2-%E0%A4%95%E0%A5%89%E0%A4%B2%E0%A5%87%E0%A4%9C%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%88-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8-%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%A8%E0%A4%BE",
+    "title": "50 मेडिकल कॉलेजों में ई-क्लास इन्फ्रास्ट्रक्चर की स्थापना | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/eduroam-0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/eduroam-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%95%E0%A5%87-%E0%A4%A4%E0%A4%B9%E0%A4%A4-%E0%A4%B8%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%AA%E0%A4%A6-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%A3%E0%A4%BE%E0%A4%AE",
+    "title": "Eduroam प्रोजेक्ट के तहत सीनियर प्रोजेक्ट इंजीनियर के पद के लिए परिणाम | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/iot-meity-%E0%A4%A8%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%89%E0%A4%AE-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%A4%E0%A4%BE-%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0-%E0%A4%86%E0%A4%88%E0%A4%93%E0%A4%9F%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%80-%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%B6%E0%A5%81%E0%A4%B0%E0%A5%82-%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AE%E0%A4%A6%E0%A4%A6-0",
+    "title": "IoT-MeitY, नास्कॉम के लिए उत्कृष्टता केंद्र, आईओटी की पारिस्थितिकी तंत्र शुरू करने में मदद करने के लिए ईआरनेट की पहल | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/lifi-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3",
+    "title": "LiFi प्रायोगिक परीक्षण | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/nadt",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/secretarymeity-visit-04012024",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/web-hosting-services-0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AC%E0%A4%82%E0%A4%A7-1",
+    "title": "अनुबंध-1 | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A4%82%E0%A4%A7%E0%A4%BE%E0%A4%A8",
+    "title": "अनुसंधान | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%85%E0%A4%B2%E0%A4%97-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%B8%E0%A5%87-%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%AF",
+    "title": "अलग प्रकार से योग्य | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%85%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%9F%E0%A5%80-%E0%A4%B5%E0%A5%8B%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%B2-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0",
+    "title": "अशक्त विद्यार्थियों के लिए आईसीटी वोकेशनल सेंटर | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%A7%E0%A5%80%E0%A4%A8-%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A4%BF-%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8-%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%80-%E0%A4%88-%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%95%E0%A5%87%E0%A4%9C",
+    "title": "आईसीएआर के अधीन कृषि विज्ञान केन्द्रों की ई-लिंकेज | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%9F%E0%A5%80-%E0%A4%8F%E0%A4%B5%E0%A4%82-%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0-%E0%A4%B2%E0%A5%87%E0%A4%B5%E0%A4%B2-02-%E0%A4%95%E0%A5%80-%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%80",
+    "title": "आईसीटी एवं डेटा सेंटर परियोजना के अंतर्गत प्रोजेक्ट इंजीनियर लेवल-02 की भर्ती | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%86%E0%A4%B0%E0%A4%8F%E0%A4%AB%E0%A4%A1%E0%A5%80",
+    "title": "आरएफडी | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%89%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%A4%E0%A4%B0-%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE",
+    "title": "उच्चतर शिक्षा | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97",
+    "title": "उपयोगकर्ता वर्ग | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%A8%E0%A4%BF%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A4%BE",
+    "title": "ईआरनेट कर्मचारी निदेशिका | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A4%BF",
+    "title": "कृषि | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%80-%E0%A4%88-%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%95%E0%A5%87%E0%A4%9C",
+    "title": "केन्द्रीय विद्यालयों की ई-लिंकेज | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%95%E0%A5%88%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B8-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+    "title": "कैम्पस नेटवर्क | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A5%80%E0%A4%A3-%E0%A4%94%E0%A4%B0-%E0%A4%B6%E0%A4%B9%E0%A4%B0%E0%A5%80-%E0%A4%B8%E0%A4%82%E0%A4%9A%E0%A4%BE%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%91%E0%A4%AA%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95%E0%A4%B2-%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A4%B2%E0%A5%87%E0%A4%B8-%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%87%E0%A4%B8-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+    "title": "ग्रामीण और शहरी संचार के लिए ऑप्टिकल वायरलेस एक्सेस नेटवर्क | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A5%80%E0%A4%A3-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%9F%E0%A5%80-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0",
+    "title": "ग्रामीण विद्यालयों के लिए आईसीटी सेंटर | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%9C%E0%A4%B5%E0%A4%BE%E0%A4%B9%E0%A4%B0-%E0%A4%A8%E0%A4%B5%E0%A5%8B%E0%A4%A6%E0%A4%AF-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%80-%E0%A4%88-%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%95%E0%A5%87%E0%A4%9C",
+    "title": "जवाहर नवोदय विद्यालयों की ई-लिंकेज | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%9F%E0%A5%87%E0%A4%B2%E0%A5%80-%E0%A4%8F%E0%A4%9C%E0%A5%81%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%A8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%8F%E0%A4%A8%E0%A4%88%E0%A4%86%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80-%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B2-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A4%B0%E0%A5%82%E0%A4%AE-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%A8%E0%A4%BE",
+    "title": "टेली-एजुकेशन प्रोजेक्ट- एनईआर के आकांक्षी जिले में स्मार्ट वर्चुअल क्लासरूम की स्थापना | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BF%E0%A4%9F%E0%A4%B2-%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%B0%E0%A5%87%E0%A4%AA%E0%A5%8B%E0%A4%9C%E0%A4%BF%E0%A4%9F%E0%A4%B0%E0%A5%80",
+    "title": "डिजिटल लाइब्रेरी की रेपोजिटरी | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0",
+    "title": "डेटा सेंटर | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE-%E0%A4%94%E0%A4%B0-%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%87%E0%A4%82",
+    "title": "नियम और शर्तें | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A4%BE%E0%A4%8F%E0%A4%82-%E0%A4%AA%E0%A4%BF%E0%A4%9B%E0%A4%B2%E0%A5%87-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AF-%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6",
+    "title": "निविदाएं - पिछले क्रय आदेश | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+    "title": "नेटवर्क | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%82%E0%A4%B8%E0%A4%BE%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0",
+    "title": "प्रशंसापत्र | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3",
+    "title": "प्रशिक्षण | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%AE%E0%A5%88%E0%A4%A8%E0%A5%87%E0%A4%9C%E0%A4%B0-%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B0-02-%E0%A4%95%E0%A5%80-%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%80",
+    "title": "प्रोजेक्ट मैनेजर स्तर 02 की भर्ती | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%95-%E0%A4%A1%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%95",
+    "title": "महानिदेशक डेस्क | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%95%E0%A5%80-%E0%A4%B5%E0%A5%87%E0%A4%AC%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8B-gigw-%E0%A4%94%E0%A4%B0-wcag-%E0%A4%8F%E0%A4%8F-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B0%E0%A5%82%E0%A4%AA-%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%87-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%A4-%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A4%BE-0",
+    "title": "राज्य सरकार की वेबसाइटों को विशेष रूप से विकलांग व्यक्तियों (पीडब्ल्यूडी) के लिए बाधा मुक्त बनाने के लिए उनमें सुधार करना। | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A4%BE%E0%A4%A8-%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8",
+    "title": "आजादी का अमृत महोत्सव | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF",
+    "title": "विद्यालय | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B-%E0%A4%95%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%97",
+    "title": "वीडियो कॉन्फ्रेंसिंग | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A5%80%E0%A4%B8%E0%A5%88%E0%A4%9F-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95-%E0%A4%95%E0%A4%A8%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%9F%E0%A5%80-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A0%E0%A4%A8-%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F",
+    "title": "ईआरनेट संगठन चार्ट | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%88-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%87%E0%A4%9F%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%B8-gem-%E0%A4%95%E0%A5%87-%E0%A4%9C%E0%A4%BC%E0%A4%B0%E0%A4%BF%E0%A4%8F-%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%82%E0%A4%B0%E0%A4%AC%E0%A4%BE-%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%A7%E0%A5%80-%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A5%8B%E0%A4%82-kgbvs-%E0%A4%AE%E0%A5%87%E0%A4%82-ict",
+    "title": "सरकारी ई-मार्केटप्लेस (GeM) के ज़रिए कस्तूरबा गांधी बालिका विद्यालयों (KGBVs) में ICT इंफ्रास्ट्रक्चर की सप्लाई | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%88-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%87%E0%A4%9F%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%B8-gem-%E0%A4%95%E0%A5%87-%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AE-%E0%A4%B8%E0%A5%87-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%B2%E0%A5%88%E0%A4%AA%E0%A4%9F%E0%A5%89%E0%A4%AA-%E0%A4%A1%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%9F%E0%A5%89%E0%A4%AA-%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B0-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9C-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%88%E0%A4%A8%E0%A4%B0-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+    "title": "सरकारी ई-मार्केटप्लेस (GeM) के माध्यम से प्रिंटर, लैपटॉप, डेस्कटॉप, सर्वर, स्टोरेज, स्कैनर, नेटवर्क स्विच आदि के लिए व्यापक वार्षिक रखरखाव अनुबंध (CAMC) के संबंध में। | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A4%B0-%E0%A4%AB%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8%E0%A4%BF%E0%A4%95",
+    "title": "साइबर फोरेंसिक | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80-%E0%A4%B5%E0%A5%80%E0%A4%B5%E0%A5%80",
+    "title": "सीआईसी-वीवी | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF",
+    "title": "सुरक्षा नीति | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%94%E0%A4%B0-%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A5%82%E0%A4%95%E0%A4%A4%E0%A4%BE-%E0%A4%86%E0%A4%88%E0%A4%8F%E0%A4%B8%E0%A4%88%E0%A4%8F-%E0%A4%AB%E0%A5%87%E0%A4%9C-ii-0",
+    "title": "सूचना सुरक्षा शिक्षा और जागरूकता (आईएसईए) -फेज II | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%82%E0%A4%B2%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%88-%E0%A4%B2%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%86%E0%A4%88%E0%A4%9F%E0%A5%80-%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0-%E0%A4%94%E0%A4%B0-%E0%A4%B2%E0%A5%88%E0%A4%A8-0",
+    "title": "स्कूलों में ई-लर्निंग केंद्रों के लिए आईटी इन्फ्रास्ट्रक्चर और लैन | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A4%B0%E0%A5%82%E0%A4%AE-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%95-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%9F-%E0%A4%95%E0%A5%80-%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%80",
+    "title": "स्मार्ट क्लासरूम परियोजना के अंतर्गत प्रशासनिक सहायक (प्रोक्योरमेंट) की भर्ती | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A4%B0%E0%A5%82%E0%A4%AE-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0-%E0%A4%B2%E0%A5%87%E0%A4%B5%E0%A4%B2-02-%E0%A4%B5%E0%A4%B0%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0",
+    "title": "स्मार्ट क्लासरूम परियोजना के अंतर्गत प्रोजेक्ट इंजीनियर लेवल-02, वरिष्ठ प्रोजेक्ट इंजीनियर, प्रोजेक्ट मैनेजर लेवल-01 एवं लेवल-02 की भर्ती | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF",
+    "title": "स्वास्थ्य | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/50-%E0%A4%AE%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%95%E0%A4%B2-%E0%A4%95%E0%A5%89%E0%A4%B2%E0%A5%87%E0%A4%9C%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%88-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8-%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%A8%E0%A4%BE",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/iot-meity-%E0%A4%A8%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%89%E0%A4%AE-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%A4%E0%A4%BE-%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0-%E0%A4%86%E0%A4%88%E0%A4%93%E0%A4%9F%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%80-%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%B6%E0%A5%81%E0%A4%B0%E0%A5%82-%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AE%E0%A4%A6%E0%A4%A6-0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/lifi-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3-0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%85%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%9F%E0%A5%80-%E0%A4%B5%E0%A5%8B%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%B2-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%8F%E0%A4%86%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%A7%E0%A5%80%E0%A4%A8-%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A4%BF-%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8-%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%80-%E0%A4%88-%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%95%E0%A5%87%E0%A4%9C",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%88%E0%A4%AF%E0%A5%82-%E0%A4%87%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%A12",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%80-%E0%A4%88-%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%95%E0%A5%87%E0%A4%9C",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%95%E0%A5%88%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B8-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A5%80%E0%A4%A3-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%9F%E0%A5%80-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%9C%E0%A4%B5%E0%A4%BE%E0%A4%B9%E0%A4%B0-%E0%A4%A8%E0%A4%B5%E0%A5%8B%E0%A4%A6%E0%A4%AF-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%80-%E0%A4%88-%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%95%E0%A5%87%E0%A4%9C",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%9F%E0%A5%80%E0%A4%88%E0%A4%86%E0%A4%88%E0%A4%8F%E0%A4%A83",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BF%E0%A4%9F%E0%A4%B2-%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%B0%E0%A5%87%E0%A4%AA%E0%A5%8B%E0%A4%9C%E0%A4%BF%E0%A4%9F%E0%A4%B0%E0%A5%80",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%AA%E0%A4%BF%E0%A4%9B%E0%A4%B2%E0%A5%87-%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8-0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%AE%E0%A4%BE%E0%A4%AF-%E0%A4%AB%E0%A4%BE%E0%A4%AF%E0%A4%B0-0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%95%E0%A5%80-%E0%A4%B5%E0%A5%87%E0%A4%AC%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8B-gigw-%E0%A4%94%E0%A4%B0-wcag-%E0%A4%8F%E0%A4%8F-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B0%E0%A5%82%E0%A4%AA-%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%87-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%A4-%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A4%BE-0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A4%BE%E0%A4%A8-%E0%A4%86%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%B5%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B-%E0%A4%95%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%97",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%B5%E0%A5%80%E0%A4%B8%E0%A5%87%E0%A4%9F-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95-%E0%A4%95%E0%A4%A8%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%9F%E0%A5%80-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A4%B0-%E0%A4%AB%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8%E0%A4%BF%E0%A4%95",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%B8%E0%A5%80%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80-%E0%A4%B5%E0%A5%80%E0%A4%B5%E0%A5%80",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%94%E0%A4%B0-%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A5%82%E0%A4%95%E0%A4%A4%E0%A4%BE-%E0%A4%86%E0%A4%88%E0%A4%8F%E0%A4%B8%E0%A4%88%E0%A4%8F-%E0%A4%AB%E0%A5%87%E0%A4%9C-ii-0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%82%E0%A4%B2%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%88-%E0%A4%B2%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%86%E0%A4%88%E0%A4%9F%E0%A5%80-%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0-%E0%A4%94%E0%A4%B0-%E0%A4%B2%E0%A5%88%E0%A4%A8-0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%82%E0%A4%A8-%E0%A4%B0%E0%A5%80%E0%A4%A1%E0%A4%B0-%E0%A4%B8%E0%A5%81%E0%A4%B2%E0%A4%AD%E0%A4%A4",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/content/%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B2-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A4%B0%E0%A5%82%E0%A4%AE-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-0",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/hi/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/latest-news",
+    "title": "ताज़ा खबर | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/network",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/node",
+    "title": "Welcome to ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट   | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/node/757",
+    "title": "हर घर तिरंगा | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/research-development",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/services",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/training",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/xn--m1bd4e9a1b9i.xn--h2brj9c/latest-news",
+    "title": "Page not found | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "unavailable",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A4%82%E0%A4%A7%E0%A4%BE%E0%A4%A8-%E0%A4%8F%E0%A4%B5%E0%A4%82-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8",
+    "title": "अनुसंधान एवं विकास | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+    "title": "नेटवर्क | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3",
+    "title": "प्रशिक्षण | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF",
+    "title": "सुरक्षा नीति | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  },
+  {
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%8F%E0%A4%81",
+    "title": "सेवाएँ | ईआरनेट भारतीय शिक्षा और अनुसंधान नेटवर्क की आधिकारिक वेबसाइट",
+    "verified": "2026-10-24",
+    "status": "inspected",
+    "contentStatus": "Published source; currency depends on item",
+    "implementationStatus": "Available to parent for mapping",
+    "uncertainty": "Not a live operational verification"
+  }
+]

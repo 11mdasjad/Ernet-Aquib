@@ -1,0 +1,47 @@
+[
+  {
+    "key": "home",
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/",
+    "status": 200,
+    "screenshots": [
+      "1440",
+      "375"
+    ]
+  },
+  {
+    "key": "about",
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82",
+    "status": 200,
+    "screenshots": [
+      "1440",
+      "375"
+    ]
+  },
+  {
+    "key": "services",
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%8F%E0%A4%81",
+    "status": 200,
+    "screenshots": [
+      "1440",
+      "375"
+    ]
+  },
+  {
+    "key": "contact",
+    "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%95-%E0%A4%95%E0%A4%B0%E0%A5%87",
+    "status": 200,
+    "screenshots": [
+      "1440",
+      "375"
+    ]
+  },
+  {
+    "key": "registry",
+    "url": "https://registry.ernet.in/",
+    "status": 200,
+    "screenshots": [
+      "1440",
+      "375"
+    ]
+  }
+]

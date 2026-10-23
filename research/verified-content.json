@@ -1,0 +1,1258 @@
+{
+  "verified": "2026-10-24",
+  "services": [
+    {
+      "slug": "domain-registration",
+      "title": "Educational & research domains",
+      "summary": "Institutional domain registration for India’s education and research community.",
+      "source": "https://registry.ernet.in/guidelines",
+      "sections": [
+        {
+          "title": "Eligible institutions",
+          "body": "The guidelines cover institutions recognized, affiliated or registered under central or state laws or education boards, government-affiliated vocational institutions, and research organizations with documentary evidence. They also describe institutions established under societies, trusts, foundations and councils. Eligibility remains subject to the official document review."
+        },
+        {
+          "title": "Eight reserved domain categories",
+          "body": "ac.in · edu.in · res.in · school.in · alumni.in · विद्या.भारत · शिक्षा.भारत · शोध.भारत. The published guidelines effective 25 August 2025 identify ERNET as their exclusive registrar."
+        },
+        {
+          "title": "Application documents",
+          "body": "Use the current official checklist: signed institution letter (Annexure A), ₹100 stamp-paper undertaking (Annexure B), admin contact appointment letter, affiliation or recognition evidence, legal registration evidence, and GST documentation where applicable. Research domains need research mandate evidence. Government schools have a separate three-document process."
+        },
+        {
+          "title": "Application process",
+          "body": "Check availability on the registry portal, complete the declaration and application, upload attested PDFs (maximum 2 MB), and pay through the portal. The guidelines require true copies of the stamp-paper undertaking to reach the Domain Registration Division within 15 days. Renewals also require fresh documents."
+        },
+        {
+          "title": "Domain choice and renewal",
+          "body": "Names must reflect the institution’s full or abbreviated name. Generic, personal and misleading names are restricted. Initial registration is 1–10 years; the guidelines limit renewal to nine years at a time. These reserved domains cannot transfer to another registrar."
+        },
+        {
+          "title": "Nameservers",
+          "body": "At least two valid nameservers and a valid DNS entry are required. Institutions may use their own provider or request ERNET DNS services."
+        }
+      ],
+      "verified": "2026-10-24",
+      "portal": "https://registry.ernet.in/",
+      "status": "Published service",
+      "relatedSources": [
+        "https://registry.ernet.in/tariff",
+        "https://registry.ernet.in/download-documents"
+      ]
+    },
+    {
+      "slug": "dns",
+      "title": "DNS services",
+      "summary": "Domain resolution and nameserver support through the official registry.",
+      "source": "https://registry.ernet.in/guidelines",
+      "sections": [
+        {
+          "title": "Configure the domain",
+          "body": "DNS connects the registered domain to institutional web and mail services. The official guidelines require at least two valid nameservers; an institution can use its own DNS provider or ERNET’s service."
+        },
+        {
+          "title": "Published tariff",
+          "body": "The tariff lists ERNET DNS at ₹500 + ₹90 GST for the first year and ₹200 + ₹36 GST per year thereafter. Confirm the applicable invoice in the official portal before payment."
+        },
+        {
+          "title": "Manage and get help",
+          "body": "Configuration changes and renewals belong in the authenticated official domain panel. Email helpdesk@domain.ernet.in to create a support ticket before calling."
+        }
+      ],
+      "verified": "2026-10-24",
+      "portal": "https://registry.ernet.in/",
+      "status": "Published service",
+      "relatedSources": [
+        "https://registry.ernet.in/tariff",
+        "https://registry.ernet.in/contact-us"
+      ]
+    },
+    {
+      "slug": "waas",
+      "title": "Website as a Service",
+      "summary": "Build an institutional website using ERNET’s templates and content tools.",
+      "source": "https://registry.ernet.in/vas",
+      "sections": [
+        {
+          "title": "Designed for institutions",
+          "body": "WaaS provides customizable templates for schools, colleges and universities, with institution branding, drag-and-drop navigation, mobile layouts and a content management system."
+        },
+        {
+          "title": "Hosting and access",
+          "body": "The portal describes 2 GB per website and SSL-protected HTTPS hosting on ERNET servers. Additional space up to 5 GB is chargeable. Registered domain users access the service through the official portal."
+        },
+        {
+          "title": "Published annual charge",
+          "body": "The dedicated VAS tariff lists ₹3,800 plus ₹684 GST: ₹4,484 for one year. Longer terms are listed on the portal."
+        },
+        {
+          "title": "Institutional responsibility",
+          "body": "The institution owns and remains responsible for uploaded content. Payments and publishing are handled on the official service."
+        }
+      ],
+      "verified": "2026-10-24",
+      "portal": "https://registry.ernet.in/vas",
+      "status": "Published service",
+      "relatedSources": [
+        "https://registry.ernet.in/tariff_vas"
+      ]
+    },
+    {
+      "slug": "lmaas",
+      "title": "Learning Management as a Service",
+      "summary": "Create a branded learning website for your institution.",
+      "source": "https://registry.ernet.in/vas",
+      "sections": [
+        {
+          "title": "Learning platform capabilities",
+          "body": "Published features include customizable branding, a mobile-compatible interface, organized course materials, instructor and learner navigation, multimedia, quizzes and simulations."
+        },
+        {
+          "title": "Service access",
+          "body": "Registered domain users can create the LMS using portal templates. ERNET describes HTTPS hosting with SSL and 2 GB per website, with additional space up to 5 GB chargeable."
+        },
+        {
+          "title": "Published annual charge",
+          "body": "The dedicated VAS tariff lists ₹4,300 plus ₹774 GST: ₹5,074 for one year. Confirm subscriptions and payment on the official portal."
+        }
+      ],
+      "verified": "2026-10-24",
+      "portal": "https://registry.ernet.in/vas",
+      "status": "Published service",
+      "relatedSources": [
+        "https://registry.ernet.in/tariff_vas"
+      ]
+    },
+    {
+      "slug": "web-hosting",
+      "title": "Web hosting & email",
+      "summary": "Published hosting and institutional email support resources.",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A5%87%E0%A4%AC-%E0%A4%B9%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97",
+      "sections": [
+        {
+          "title": "Institutional hosting",
+          "body": "The official service page describes website hosting for education, academic, research and government organizations, with domain registration handled separately where required."
+        },
+        {
+          "title": "Security review",
+          "body": "The hosting page requires a security audit before an application is hosted. Consult the latest published hosting guidance and support team for requirements."
+        },
+        {
+          "title": "Technical information",
+          "body": "The Hindi hosting page contains legacy software versions. They are historical descriptions, not a current compatibility guarantee. Request current platform details from ERNET."
+        },
+        {
+          "title": "Contact",
+          "body": "Web hosting: webhosting@ernet.in. Email support: support@ernet.in. Published service support number: +91 11-22170641."
+        }
+      ],
+      "verified": "2026-10-24",
+      "status": "Published description; confirm current platform",
+      "relatedSources": [
+        "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AE%E0%A4%A6%E0%A4%A6-%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97"
+      ]
+    },
+    {
+      "slug": "campus-networking",
+      "title": "Campus Wi-Fi & networking",
+      "summary": "Connect institutional buildings, people and shared resources.",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%95%E0%A5%88%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B8-%E0%A4%B5%E0%A4%BE%E0%A4%87%E0%A4%A1-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A4%BF%E0%A4%82%E0%A4%97",
+      "sections": [
+        {
+          "title": "Campus network design",
+          "body": "The official description covers core, distribution and access networks; optical fibre between buildings; copper cabling within buildings; switches, routers, firewalls and intrusion prevention."
+        },
+        {
+          "title": "Campus access",
+          "body": "Wireless access points and centralized authentication support campus access to institutional applications and internet services. Coverage and equipment requirements depend on the campus."
+        },
+        {
+          "title": "Planning an enquiry",
+          "body": "Prepare campus layout, buildings, users and existing infrastructure information for a discussion with ERNET. No fixed commercial speed plan is published here."
+        }
+      ],
+      "verified": "2026-10-24",
+      "status": "Published service"
+    },
+    {
+      "slug": "eduroam",
+      "title": "eduroam academic roaming",
+      "summary": "Access the official academic roaming service and support.",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AE%E0%A4%A6%E0%A4%A6-%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97",
+      "sections": [
+        {
+          "title": "Official service",
+          "body": "eduroam is linked from ERNET’s service navigation. Use its dedicated portal for institutional participation and configuration information."
+        },
+        {
+          "title": "Support",
+          "body": "ERNET publishes eduroam@ernet.in and +91 11-22170641. The portal is a JavaScript application; no current participant count or coverage list was verified in this audit."
+        }
+      ],
+      "verified": "2026-10-24",
+      "portal": "https://eduroam.ernet.in/",
+      "status": "Official portal linked"
+    },
+    {
+      "slug": "ict-consultancy",
+      "title": "ICT consultancy & implementation",
+      "summary": "Institutional planning, project management and technical support.",
+      "source": "https://registry.ernet.in/",
+      "sections": [
+        {
+          "title": "Mandate",
+          "body": "ERNET’s registry describes consultancy, project management, training and value-added ICT services for education and research institutions."
+        },
+        {
+          "title": "Documented implementation",
+          "body": "Published projects include campus networks, e-classrooms, accessible government websites and ICT infrastructure. Enquiries should identify the intended beneficiaries, infrastructure and project objectives."
+        }
+      ],
+      "verified": "2026-10-24",
+      "status": "Published institutional mandate",
+      "relatedSources": [
+        "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%E0%A4%8F%E0%A4%81"
+      ]
+    },
+    {
+      "slug": "connectivity",
+      "title": "Terrestrial & satellite connectivity",
+      "summary": "Academic network access and documented satellite connectivity.",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+      "sections": [
+        {
+          "title": "Academic backbone",
+          "body": "ERNET describes an MPLS-enabled backbone with IPv4 and IPv6, connecting its points of presence. The published architecture links the VSAT network to the terrestrial network at Bengaluru."
+        },
+        {
+          "title": "Network capabilities",
+          "body": "The published network page lists IPv4/IPv6 MPLS VPN and multicast capabilities. These are institutional descriptions rather than measured live availability or bandwidth."
+        },
+        {
+          "title": "VSAT support",
+          "body": "The helpdesk lists Bengaluru VSAT NOC numbers 080-28523004/06/08, toll-free 1800 4253006, and vsathub@eis.ernet.in. Confirm service feasibility directly."
+        }
+      ],
+      "verified": "2026-10-24",
+      "status": "Published architecture; availability by enquiry",
+      "relatedSources": [
+        "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AE%E0%A4%A6%E0%A4%A6-%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97"
+      ]
+    },
+    {
+      "slug": "ipv6",
+      "title": "IPv6 & next-generation networks",
+      "summary": "Dual-stack networking and published IPv6 research resources.",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+      "sections": [
+        {
+          "title": "IPv6 in the network",
+          "body": "The ERNET network page documents an IPv4/IPv6 dual-stack backbone and MPLS VPN support."
+        },
+        {
+          "title": "Research and learning",
+          "body": "Published project resources include Mobile IPv6 and 6LoWPAN. The main website links to the official IPv6 portal. Detailed current consultancy packages were not verified."
+        }
+      ],
+      "verified": "2026-10-24",
+      "portal": "https://ipv6.ernet.in/",
+      "status": "Published network capability"
+    },
+    {
+      "slug": "training",
+      "title": "Training & capacity building",
+      "summary": "Networking and ICT knowledge for institutional communities.",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3",
+      "sections": [
+        {
+          "title": "Areas of activity",
+          "body": "Published training descriptions cover LAN/WAN, campus networks, next-generation networking, ICT and voice/video conferencing. ERNET describes both internal and external training arrangements."
+        },
+        {
+          "title": "Information security education",
+          "body": "The ISEA Phase II page documents government-officer capacity building and historical training sessions. It does not establish current enrollment or a new course schedule."
+        }
+      ],
+      "verified": "2026-10-24",
+      "status": "Published activity; no live enrollment verified",
+      "relatedSources": [
+        "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%94%E0%A4%B0-%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A5%82%E0%A4%95%E0%A4%A4%E0%A4%BE-%E0%A4%86%E0%A4%88%E0%A4%8F%E0%A4%B8%E0%A4%88%E0%A4%8F-%E0%A4%AB%E0%A5%87%E0%A4%9C-ii-0"
+      ]
+    },
+    {
+      "slug": "smart-classrooms",
+      "title": "Smart classrooms & educational technology",
+      "summary": "Documented e-classroom and tele-education projects.",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%9F%E0%A5%87%E0%A4%B2%E0%A5%80-%E0%A4%8F%E0%A4%9C%E0%A5%81%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%A8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%8F%E0%A4%A8%E0%A4%88%E0%A4%86%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80-%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B2-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A4%B0%E0%A5%82%E0%A4%AE-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%A8%E0%A4%BE",
+      "sections": [
+        {
+          "title": "School tele-education",
+          "body": "ERNET’s North Eastern Region project page describes smart virtual classroom infrastructure in 75 schools and four DIETs in Assam and Sikkim. The page records implementation and historical usage."
+        },
+        {
+          "title": "Medical education",
+          "body": "A separate project describes e-classroom infrastructure in 50 government medical colleges, commissioned in December 2018 for remote medical teaching and collaboration."
+        },
+        {
+          "title": "Project status",
+          "body": "These figures describe published projects. They are not an offer of a current classroom subscription or live service counters."
+        }
+      ],
+      "verified": "2026-10-24",
+      "status": "Documented projects",
+      "relatedSources": [
+        "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/50-%E0%A4%AE%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%95%E0%A4%B2-%E0%A4%95%E0%A5%89%E0%A4%B2%E0%A5%87%E0%A4%9C%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%88-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8-%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%A8%E0%A4%BE"
+      ]
+    },
+    {
+      "slug": "video-conferencing",
+      "title": "Video conferencing & collaboration",
+      "summary": "Institutional collaboration infrastructure and project experience.",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B-%E0%A4%95%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%97",
+      "sections": [
+        {
+          "title": "Documented systems",
+          "body": "The project page describes room video conferencing with cameras, microphones, codecs and displays, plus multipoint control where required."
+        },
+        {
+          "title": "Institutional examples",
+          "body": "Published examples include Uttar Pradesh government offices, Department of Space locations, Mahatma Phule Krishi Vidyapeeth and the Ministry of Earth Sciences. Treat these as historical project descriptions."
+        },
+        {
+          "title": "Service enquiry",
+          "body": "Ask ERNET about current institutional collaboration options. This replica does not provide or operate a meeting platform."
+        }
+      ],
+      "verified": "2026-10-24",
+      "status": "Historical implementation portfolio"
+    },
+    {
+      "slug": "data-centre",
+      "title": "Institutional data centre initiatives",
+      "summary": "Infrastructure projects supporting academic and research institutions.",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0",
+      "sections": [
+        {
+          "title": "Published ICAR initiative",
+          "body": "The completed-project directory links a data centre initiative under an ICAR-NAIP agreement supported by World Bank funding. Its description concerns a centralized facility for connected ICAR institutions."
+        },
+        {
+          "title": "Scope",
+          "body": "ERNET also describes its own hosting infrastructure. These sources do not establish commercial rack, GPU, colocation or general-purpose cloud subscription offerings."
+        }
+      ],
+      "verified": "2026-10-24",
+      "status": "Historical project and hosting infrastructure",
+      "relatedSources": [
+        "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A5%87%E0%A4%AC-%E0%A4%B9%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%82%E0%A4%97"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "medical-e-classrooms",
+      "title": "E-classrooms for 50 medical colleges",
+      "summary": "MoHFW selected ERNET as implementing agency. The source records commissioning in December 2018 and remote medical education using video collaboration.",
+      "status": "Historical implementation",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/50-%E0%A4%AE%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%95%E0%A4%B2-%E0%A4%95%E0%A5%89%E0%A4%B2%E0%A5%87%E0%A4%9C%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%88-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8-%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%A8%E0%A4%BE",
+      "verified": "2026-10-24",
+      "images": [
+        {
+          "alt": " प्रतीक चिन्ह ",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/logo.png"
+        },
+        {
+          "alt": "Emblem of india",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/Emblem_of_India1.png"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/nmcn1.png"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/nmcn2.png"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/nmcn3.png"
+        },
+        {
+          "alt": "मान्य CSS!",
+          "url": "http://jigsaw.w3.org/css-validator/images/vcss"
+        },
+        {
+          "alt": "स्तर डबल-ए अनुरूपता, W3C WAI वेब सामग्री एक्सेसबिलिटी दिशानिर्देश 2.0",
+          "url": "http://www.w3.org/WAI/wcag2AA"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/wqc-img.png"
+        }
+      ]
+    },
+    {
+      "slug": "iot-centre",
+      "title": "Centre of Excellence for IoT",
+      "summary": "A MeitY, NASSCOM and ERNET initiative supporting IoT innovation, startups, testing and domain applications; announced in July 2015.",
+      "status": "Published project; current status unconfirmed",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/iot-meity-%E0%A4%A8%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%89%E0%A4%AE-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%A4%E0%A4%BE-%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0-%E0%A4%86%E0%A4%88%E0%A4%93%E0%A4%9F%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%80-%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%B6%E0%A5%81%E0%A4%B0%E0%A5%82-%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AE%E0%A4%A6%E0%A4%A6-0",
+      "verified": "2026-10-24",
+      "images": [
+        {
+          "alt": " प्रतीक चिन्ह ",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/logo.png"
+        },
+        {
+          "alt": "Emblem of india",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/Emblem_of_India1.png"
+        },
+        {
+          "alt": "IoT-MeitY, नास्कॉम के लिए उत्कृष्टता केंद्र, आईओटी की पारिस्थितिकी तंत्र शुरू करने में मदद करने के लिए ईआरनेट की पहल",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/iot1.jpg"
+        },
+        {
+          "alt": "IoT-MeitY, नास्कॉम के लिए उत्कृष्टता केंद्र, आईओटी की पारिस्थितिकी तंत्र शुरू करने में मदद करने के लिए ईआरनेट की पहल",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/iot2.jpg"
+        },
+        {
+          "alt": "मान्य CSS!",
+          "url": "http://jigsaw.w3.org/css-validator/images/vcss"
+        },
+        {
+          "alt": "स्तर डबल-ए अनुरूपता, W3C WAI वेब सामग्री एक्सेसबिलिटी दिशानिर्देश 2.0",
+          "url": "http://www.w3.org/WAI/wcag2AA"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/wqc-img.png"
+        }
+      ]
+    },
+    {
+      "slug": "lifi-testbed",
+      "title": "LiFi experimental testbed",
+      "summary": "An internally funded ERNET and IIT Madras pilot studied visible-light communication and potential deployment scenarios.",
+      "status": "Historical pilot, 2017–2019",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/lifi-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BF%E0%A4%95-%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3",
+      "verified": "2026-10-24",
+      "images": [
+        {
+          "alt": " प्रतीक चिन्ह ",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/logo.png"
+        },
+        {
+          "alt": "Emblem of india",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/Emblem_of_India1.png"
+        },
+        {
+          "alt": "LiFi प्रायोगिक परीक्षण",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/experimental-set.jpg"
+        },
+        {
+          "alt": "LiFi टेस्टबेड सेटअप",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/LiFi-setup.jpg"
+        },
+        {
+          "alt": "मान्य CSS!",
+          "url": "http://jigsaw.w3.org/css-validator/images/vcss"
+        },
+        {
+          "alt": "स्तर डबल-ए अनुरूपता, W3C WAI वेब सामग्री एक्सेसबिलिटी दिशानिर्देश 2.0",
+          "url": "http://www.w3.org/WAI/wcag2AA"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/wqc-img.png"
+        }
+      ]
+    },
+    {
+      "slug": "optical-wireless",
+      "title": "Optical wireless access networks",
+      "summary": "A MeitY-funded joint project with IIIT Delhi studied optical wireless access for rural and urban communication.",
+      "status": "Published project period 2019–2022",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A5%80%E0%A4%A3-%E0%A4%94%E0%A4%B0-%E0%A4%B6%E0%A4%B9%E0%A4%B0%E0%A5%80-%E0%A4%B8%E0%A4%82%E0%A4%9A%E0%A4%BE%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%91%E0%A4%AA%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%95%E0%A4%B2-%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A4%B2%E0%A5%87%E0%A4%B8-%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A5%87%E0%A4%B8-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+      "verified": "2026-10-24",
+      "images": [
+        {
+          "alt": " प्रतीक चिन्ह ",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/logo.png"
+        },
+        {
+          "alt": "Emblem of india",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/Emblem_of_India1.png"
+        },
+        {
+          "alt": "Cyber Performance and Tech-Culture fusion programs under APAN",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/optical_wire.jpg"
+        },
+        {
+          "alt": "LiFi Multi user testbed with user node at ERNET Chennai",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/optical_wire1.jpg"
+        },
+        {
+          "alt": "मान्य CSS!",
+          "url": "http://jigsaw.w3.org/css-validator/images/vcss"
+        },
+        {
+          "alt": "स्तर डबल-ए अनुरूपता, W3C WAI वेब सामग्री एक्सेसबिलिटी दिशानिर्देश 2.0",
+          "url": "http://www.w3.org/WAI/wcag2AA"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/wqc-img.png"
+        }
+      ]
+    },
+    {
+      "slug": "ner-classrooms",
+      "title": "Smart virtual classrooms in the North East",
+      "summary": "The NEC-supported tele-education project describes 75 schools and four DIETs in Assam and Sikkim.",
+      "status": "Published implementation; current O&M unconfirmed",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%9F%E0%A5%87%E0%A4%B2%E0%A5%80-%E0%A4%8F%E0%A4%9C%E0%A5%81%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%A8-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%8F%E0%A4%A8%E0%A4%88%E0%A4%86%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80-%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A5%81%E0%A4%85%E0%A4%B2-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A4%B0%E0%A5%82%E0%A4%AE-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%A8%E0%A4%BE",
+      "verified": "2026-10-24",
+      "images": [
+        {
+          "alt": " प्रतीक चिन्ह ",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/logo.png"
+        },
+        {
+          "alt": "Emblem of india",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/Emblem_of_India1.png"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/svc_nec1.png"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/svc_nec2.png"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/svc_nec3.png"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/svc_nec4.png"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/svc_nec5.png"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/svc_nec6.png"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/svc_nec7.png"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/svc_nec8.png"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/svc_nec9.png"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/svc_nec10.png"
+        },
+        {
+          "alt": "मान्य CSS!",
+          "url": "http://jigsaw.w3.org/css-validator/images/vcss"
+        },
+        {
+          "alt": "स्तर डबल-ए अनुरूपता, W3C WAI वेब सामग्री एक्सेसबिलिटी दिशानिर्देश 2.0",
+          "url": "http://www.w3.org/WAI/wcag2AA"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/wqc-img.png"
+        }
+      ]
+    },
+    {
+      "slug": "accessible-websites",
+      "title": "Accessible government websites",
+      "summary": "DEPwD supported ERNET’s work to make state and union territory government websites accessible and develop internal testing capability.",
+      "status": "Published project; current status unconfirmed",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF-%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%95%E0%A5%80-%E0%A4%B5%E0%A5%87%E0%A4%AC%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%9F%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8B-gigw-%E0%A4%94%E0%A4%B0-wcag-%E0%A4%8F%E0%A4%8F-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B0%E0%A5%82%E0%A4%AA-%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A5%87-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%A4-%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A4%BE-0",
+      "verified": "2026-10-24",
+      "images": [
+        {
+          "alt": " प्रतीक चिन्ह ",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/logo.png"
+        },
+        {
+          "alt": "Emblem of india",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/Emblem_of_India1.png"
+        },
+        {
+          "alt": "मान्य CSS!",
+          "url": "http://jigsaw.w3.org/css-validator/images/vcss"
+        },
+        {
+          "alt": "स्तर डबल-ए अनुरूपता, W3C WAI वेब सामग्री एक्सेसबिलिटी दिशानिर्देश 2.0",
+          "url": "http://www.w3.org/WAI/wcag2AA"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/wqc-img.png"
+        }
+      ]
+    },
+    {
+      "slug": "isea",
+      "title": "Information Security Education & Awareness",
+      "summary": "ERNET participated in government-officer training and capacity building under the MeitY-funded information security programme.",
+      "status": "Historical Phase II, 2015–2020",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%94%E0%A4%B0-%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A5%82%E0%A4%95%E0%A4%A4%E0%A4%BE-%E0%A4%86%E0%A4%88%E0%A4%8F%E0%A4%B8%E0%A4%88%E0%A4%8F-%E0%A4%AB%E0%A5%87%E0%A4%9C-ii-0",
+      "verified": "2026-10-24",
+      "images": [
+        {
+          "alt": " प्रतीक चिन्ह ",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/logo.png"
+        },
+        {
+          "alt": "Emblem of india",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/Emblem_of_India1.png"
+        },
+        {
+          "alt": "Information Security Education and Awareness (ISEA)-Phase-II",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/ISEA.jpg"
+        },
+        {
+          "alt": "Information Security Education and Awareness (ISEA)-Phase-II",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/ISEA1.jpg"
+        },
+        {
+          "alt": "मान्य CSS!",
+          "url": "http://jigsaw.w3.org/css-validator/images/vcss"
+        },
+        {
+          "alt": "स्तर डबल-ए अनुरूपता, W3C WAI वेब सामग्री एक्सेसबिलिटी दिशानिर्देश 2.0",
+          "url": "http://www.w3.org/WAI/wcag2AA"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/wqc-img.png"
+        }
+      ]
+    },
+    {
+      "slug": "icar-data-centre",
+      "title": "ICAR institutional data centre",
+      "summary": "A World Bank-funded ICAR-NAIP initiative described establishing centralized data-centre infrastructure for connected ICAR institutions.",
+      "status": "Listed as completed project",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0",
+      "verified": "2026-10-24",
+      "images": [
+        {
+          "alt": " प्रतीक चिन्ह ",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/logo.png"
+        },
+        {
+          "alt": "Emblem of india",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/Emblem_of_India1.png"
+        },
+        {
+          "alt": "मान्य CSS!",
+          "url": "http://jigsaw.w3.org/css-validator/images/vcss"
+        },
+        {
+          "alt": "स्तर डबल-ए अनुरूपता, W3C WAI वेब सामग्री एक्सेसबिलिटी दिशानिर्देश 2.0",
+          "url": "http://www.w3.org/WAI/wcag2AA"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/wqc-img.png"
+        }
+      ]
+    },
+    {
+      "slug": "rural-ict",
+      "title": "ICT centres for rural schools",
+      "summary": "Published education technology project providing ICT access in rural schools.",
+      "status": "Listed as completed project",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A5%80%E0%A4%A3-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%9F%E0%A5%80-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0",
+      "verified": "2026-10-24",
+      "images": [
+        {
+          "alt": " प्रतीक चिन्ह ",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/logo.png"
+        },
+        {
+          "alt": "Emblem of india",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/Emblem_of_India1.png"
+        },
+        {
+          "alt": "मान्य CSS!",
+          "url": "http://jigsaw.w3.org/css-validator/images/vcss"
+        },
+        {
+          "alt": "स्तर डबल-ए अनुरूपता, W3C WAI वेब सामग्री एक्सेसबिलिटी दिशानिर्देश 2.0",
+          "url": "http://www.w3.org/WAI/wcag2AA"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/wqc-img.png"
+        }
+      ]
+    },
+    {
+      "slug": "accessible-ict",
+      "title": "ICT vocational centres for students with disabilities",
+      "summary": "Published initiative for ICT vocational resources for students with disabilities.",
+      "status": "Listed as completed project",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%85%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%9F%E0%A5%80-%E0%A4%B5%E0%A5%8B%E0%A4%95%E0%A5%87%E0%A4%B6%E0%A4%A8%E0%A4%B2-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0",
+      "verified": "2026-10-24",
+      "images": [
+        {
+          "alt": " प्रतीक चिन्ह ",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/logo.png"
+        },
+        {
+          "alt": "Emblem of india",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/Emblem_of_India1.png"
+        },
+        {
+          "alt": "अशक्त विद्यार्थियों के लिए आईसीटी वोकेशनल सेंटर",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/ICT_vocational.jpg"
+        },
+        {
+          "alt": "मान्य CSS!",
+          "url": "http://jigsaw.w3.org/css-validator/images/vcss"
+        },
+        {
+          "alt": "स्तर डबल-ए अनुरूपता, W3C WAI वेब सामग्री एक्सेसबिलिटी दिशानिर्देश 2.0",
+          "url": "http://www.w3.org/WAI/wcag2AA"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/wqc-img.png"
+        }
+      ]
+    },
+    {
+      "slug": "school-lan",
+      "title": "IT infrastructure and LAN for school e-learning",
+      "summary": "Published school e-learning infrastructure and local networking initiative.",
+      "status": "Listed as completed project",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%82%E0%A4%B2%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%88-%E0%A4%B2%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%86%E0%A4%88%E0%A4%9F%E0%A5%80-%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0-%E0%A4%94%E0%A4%B0-%E0%A4%B2%E0%A5%88%E0%A4%A8-0",
+      "verified": "2026-10-24",
+      "images": [
+        {
+          "alt": " प्रतीक चिन्ह ",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/logo.png"
+        },
+        {
+          "alt": "Emblem of india",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/Emblem_of_India1.png"
+        },
+        {
+          "alt": "स्कूलों में ई-लर्निंग केंद्रों के लिए आईटी इन्फ्रास्ट्रक्चर और लैन",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/images/e-learning.jpg"
+        },
+        {
+          "alt": "मान्य CSS!",
+          "url": "http://jigsaw.w3.org/css-validator/images/vcss"
+        },
+        {
+          "alt": "स्तर डबल-ए अनुरूपता, W3C WAI वेब सामग्री एक्सेसबिलिटी दिशानिर्देश 2.0",
+          "url": "http://www.w3.org/WAI/wcag2AA"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/wqc-img.png"
+        }
+      ]
+    },
+    {
+      "slug": "digital-library",
+      "title": "Digital library repository",
+      "summary": "Published project supporting a digital library repository.",
+      "status": "Listed as completed project",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BF%E0%A4%9F%E0%A4%B2-%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A5%80-%E0%A4%B0%E0%A5%87%E0%A4%AA%E0%A5%8B%E0%A4%9C%E0%A4%BF%E0%A4%9F%E0%A4%B0%E0%A5%80",
+      "verified": "2026-10-24",
+      "images": [
+        {
+          "alt": " प्रतीक चिन्ह ",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/logo.png"
+        },
+        {
+          "alt": "Emblem of india",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/Emblem_of_India1.png"
+        },
+        {
+          "alt": "मान्य CSS!",
+          "url": "http://jigsaw.w3.org/css-validator/images/vcss"
+        },
+        {
+          "alt": "स्तर डबल-ए अनुरूपता, W3C WAI वेब सामग्री एक्सेसबिलिटी दिशानिर्देश 2.0",
+          "url": "http://www.w3.org/WAI/wcag2AA"
+        },
+        {
+          "alt": "",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/all/themes/ernet/images/wqc-img.png"
+        }
+      ]
+    }
+  ],
+  "notices": [
+    {
+      "title": "Comprehensive annual maintenance of ICT equipment",
+      "category": "Tender",
+      "date": "2026-08-24",
+      "deadline": "2026-09-10",
+      "reference": "GEM/2026/B/7941685",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%88-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%87%E0%A4%9F%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%B8-gem-%E0%A4%95%E0%A5%87-%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AE-%E0%A4%B8%E0%A5%87-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%B2%E0%A5%88%E0%A4%AA%E0%A4%9F%E0%A5%89%E0%A4%AA-%E0%A4%A1%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%9F%E0%A5%89%E0%A4%AA-%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B0-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9C-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%88%E0%A4%A8%E0%A4%B0-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+      "status": "Published closing date passed",
+      "documents": [
+        {
+          "title": "सरकारी ई-मार्केटप्लेस (GeM) के माध्यम से प्रिंटर, लैपटॉप, डेस्कटॉप, सर्वर, स्टोरेज, स्कैनर, नेटवर्क स्विच आदि के लिए व्यापक वार्षिक रखरखाव अनुबंध (CAMC) के संबंध में।",
+          "url": "https://ernet.in/sites/default/files/pdf/GeM-Bidding-9783565.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Supply of ICT infrastructure in KGBVs",
+      "category": "Tender",
+      "date": "2026-07-03",
+      "deadline": "2026-08-03",
+      "reference": "GEM/2026/B/7732547",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%88-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%87%E0%A4%9F%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%B8-gem-%E0%A4%95%E0%A5%87-%E0%A4%9C%E0%A4%BC%E0%A4%B0%E0%A4%BF%E0%A4%8F-%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%82%E0%A4%B0%E0%A4%AC%E0%A4%BE-%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%A7%E0%A5%80-%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A5%8B%E0%A4%82-kgbvs-%E0%A4%AE%E0%A5%87%E0%A4%82-ict",
+      "status": "Published closing date passed",
+      "documents": [
+        {
+          "title": "सरकारी ई-मार्केटप्लेस (GeM) के ज़रिए \"कस्तूरबा गांधी बालिका विद्यालयों (KGBVs) में ICT इंफ्रास्ट्रक्चर की सप्लाई\" के लिए टेंडर (GeM बिड नंबर: GEM/2026/B/7732547, तारीख 03.07.2026) के तहत बिड जमा करने की तारीख बढ़ाने के लिए सूचना।",
+          "url": "https://ernet.in/sites/default/files/pdf/Notice for Extension of Bid Submission-KGBV.pdf"
+        },
+        {
+          "title": "सरकारी ई-मार्केटप्लेस (GeM) के ज़रिए \"कस्तूरबा गांधी बालिका विद्यालयों (KGBVs) में ICT इंफ्रास्ट्रक्चर की सप्लाई\" के लिए टेंडर (GeM बिड नंबर: GEM/2026/B/7732547, तारीख 03.07.2026) से जुड़े सवालों के जवाब के संबंध में टेंडर में सुधार (Corrigendum)।",
+          "url": "https://ernet.in/sites/default/files/pdf/GeM-Bidding-Corr-9545022-1.pdf"
+        },
+        {
+          "title": "सरकारी ई-मार्केटप्लेस (GeM) के ज़रिए कस्तूरबा गांधी बालिका विद्यालयों (KGBVs) में ICT इंफ्रास्ट्रक्चर की सप्लाई",
+          "url": "https://ernet.in/sites/default/files/pdf/GeM-Bidding-9545022.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Recruitment of Project Manager Level 02",
+      "category": "Careers",
+      "date": "2026-10-23",
+      "deadline": null,
+      "reference": null,
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%AE%E0%A5%88%E0%A4%A8%E0%A5%87%E0%A4%9C%E0%A4%B0-%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B0-02-%E0%A4%95%E0%A5%80-%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%80",
+      "status": "Published notice; verify updates on official source",
+      "documents": [
+        {
+          "title": "प्रोजेक्ट मैनेजर स्तर 02 की भर्ती",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Project Manager Level 02.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Project Engineer Level 02 — ICT & Data Centre project",
+      "category": "Careers",
+      "date": "2026-09-02",
+      "deadline": null,
+      "reference": null,
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%9F%E0%A5%80-%E0%A4%8F%E0%A4%B5%E0%A4%82-%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0-%E0%A4%B2%E0%A5%87%E0%A4%B5%E0%A4%B2-02-%E0%A4%95%E0%A5%80-%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%80",
+      "status": "Published notice; verify updates on official source",
+      "documents": [
+        {
+          "title": "आईसीटी एवं डेटा सेंटर परियोजना के अंतर्गत प्रोजेक्ट इंजीनियर लेवल-02 की भर्ती",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Project Engineer Level 02 NCCC.pdf"
+        },
+        {
+          "title": "* एनेक्ज़र फॉर्म डाउनलोड करें (अनिवार्य)",
+          "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/annexure-form.pdf"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "title": "Help",
+      "url": "https://registry.ernet.in/ERNET_HelpFile.pdf",
+      "source": "https://registry.ernet.in/",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "Annexure A",
+      "url": "https://registry.ernet.in/assets/Annexure-A.pdf",
+      "source": "https://registry.ernet.in/download-documents",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "Annexure B",
+      "url": "https://registry.ernet.in/assets/Annexure-B.pdf",
+      "source": "https://registry.ernet.in/download-documents",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "Office Memorandum for Hosting of Government related websites.",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Mha_om-website-hosting.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "स्वच्छता पखवाड़ा",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Swachhta Pakhwada.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "परिशिष्ट 2: विश्वविद्यालयों/महाविद्यालयों/संस्थानों में वाई-फाई सक्षम कैंपस नेटवर्क स्थापित करने के लिए इम्पैनलमेंट के लिए रुचि की अभिव्यक्ति आमंत्रित करना",
+      "url": "http://ernet.in/sites/default/files/pdf/Corrigendum 2_eoi.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "प्रतिनियुक्ति के आधार पर ईआरनेट इंडिया में विभिन्न पद",
+      "url": "https://ernet.in/sites/default/files/dep231.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "आर/ओ जीईएम बोली संख्या: जीईएम/2023/बी/3301557 में 21.04.2023 से 01.05.2023 तक बोली जमा करने और खोलने की तिथि के विस्तार के लिए सूचना",
+      "url": "https://ernet.in/sites/default/files/pdf/CSP_Extension.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "आजादी का अमृत महोत्सव",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/AKAM%20ERNET%20India.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%86%E0%A4%9C%E0%A4%BE%E0%A4%A6%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%85%E0%A4%AE%E0%A5%83%E0%A4%A4-%E0%A4%AE%E0%A4%B9%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A4%B5",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "6लोपैन",
+      "url": "https://ernet.in/sites/default/files/others/6LoWPAN_Display.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "मोबाइल आईपीवी6",
+      "url": "https://ernet.in/sites/default/files/others/MIPv6_Display.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "वीएसईएसएस",
+      "url": "https://ernet.in/sites/default/files/others/VSESS_Display.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "कृपया अनुबंध-II देखें",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Point(II)Annex-II_050721.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "अनुबंध- III (1)",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Delegation-of-power.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "अनुबंध- III (2)",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Point(V)R&RAnnex-III(2).pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "अनुबंध- III (3)",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Point(V)ByelawsAnnex-III(3)060317.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "अनुबंध- III (4)",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Point(V)MOAAnnex-III(4).2.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "अनुबंध- III (5)",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Point(V)MOAAnnex-III(5).2.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "कृपया अनुबंध-VI(I) देखें",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/pay%20level.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "6लोपैन",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/others/6LoWPAN_Display.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "मोबाइल आईपीवी 6",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/others/MIPv6_Display.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "वीएसईएसएस",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/others/VSESS_Display.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "वार्षिक विवरण 2024-25",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Hindi Book.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "वार्षिक विवरण 2022-23",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Final Hindi AR 2022-23.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "वार्षिक विवरण 2020-21",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Annual%20report2021.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "वार्षिक विवरण 2019-20",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/ERNET_ANNUAL%20REPORT_English-19-20.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "वार्षिक विवरण 2018-19",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/English%20final%20AR%2018-19.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "वार्षिक विवरण 2017-18",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/ERNET English 17-18.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "वार्षिक विवरण 2016-17",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Hindi_2016-17.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "वार्षिक विवरण 2015-16",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Hindi_2015-16.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "50 मेडिकल कॉलेजों में ई-क्लास इन्फ्रास्ट्रक्चर की स्थापना",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/List%20of%20Colleges%20Under%20NMCN.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/50-%E0%A4%AE%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%95%E0%A4%B2-%E0%A4%95%E0%A5%89%E0%A4%B2%E0%A5%87%E0%A4%9C%E0%A5%8B%E0%A4%82-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%88-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8-%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%9A%E0%A4%B0-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%AA%E0%A4%A8%E0%A4%BE",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "Eduroam प्रोजेक्ट के तहत सीनियर प्रोजेक्ट इंजीनियर के पद के लिए परिणाम",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Result-projet engineer-28-07-2026.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/eduroam-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%95%E0%A5%87-%E0%A4%A4%E0%A4%B9%E0%A4%A4-%E0%A4%B8%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%AA%E0%A4%A6-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%A3%E0%A4%BE%E0%A4%AE",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "आईसीटी एवं डेटा सेंटर परियोजना के अंतर्गत प्रोजेक्ट इंजीनियर लेवल-02 की भर्ती",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Project Engineer Level 02 NCCC.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%9F%E0%A5%80-%E0%A4%8F%E0%A4%B5%E0%A4%82-%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0-%E0%A4%B2%E0%A5%87%E0%A4%B5%E0%A4%B2-02-%E0%A4%95%E0%A5%80-%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%80",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "* एनेक्ज़र फॉर्म डाउनलोड करें (अनिवार्य)",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/annexure-form.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%86%E0%A4%88%E0%A4%B8%E0%A5%80%E0%A4%9F%E0%A5%80-%E0%A4%8F%E0%A4%B5%E0%A4%82-%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE-%E0%A4%B8%E0%A5%87%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0-%E0%A4%B2%E0%A5%87%E0%A4%B5%E0%A4%B2-02-%E0%A4%95%E0%A5%80-%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%80",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "ईआरनेट (2013-2014) के लिए आरएफडी (परिणाम-फ्रेमवर्क दस्तावेज़)",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/RFD_Year_2012-13.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%86%E0%A4%B0%E0%A4%8F%E0%A4%AB%E0%A4%A1%E0%A5%80",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "ईआरनेट (2014-2015) के लिए आरएफडी (परिणाम-फ्रेमवर्क दस्तावेज़)",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/ERNET%20RFD%20FY%202014-15_Approved.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%86%E0%A4%B0%E0%A4%8F%E0%A4%AB%E0%A4%A1%E0%A5%80",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "अप्रैल'2010 से मार्च'2011 के दौरान जारी किए गए खरीद आदेश का विवरण.",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/tender/20110610Tender%20Status.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A4%BE%E0%A4%8F%E0%A4%82-%E0%A4%AA%E0%A4%BF%E0%A4%9B%E0%A4%B2%E0%A5%87-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AF-%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "अक्टूबर 2009 से फरवरी'2010 के दौरान जारी किए गए खरीद आदेश का विवरण.",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/tender/20100514poOct09toFeb101.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A4%BE%E0%A4%8F%E0%A4%82-%E0%A4%AA%E0%A4%BF%E0%A4%9B%E0%A4%B2%E0%A5%87-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AF-%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "वीसैट सेवा प्रशंसा",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/<?php global $base_url; print $base_url;?>/sites/default/files/pdf/Document1.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%82%E0%A4%B8%E0%A4%BE%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "वीसैट सेवा प्रशंसा",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/<?php global $base_url; print $base_url;?>/sites/default/files/pdf/testimonial%202.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%82%E0%A4%B8%E0%A4%BE%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "वेब होस्टिंग सेवा प्रशंसा",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/nift%20appreciation%20letter.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%82%E0%A4%B8%E0%A4%BE%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "प्रोजेक्ट मैनेजर स्तर 02 की भर्ती",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/Project Manager Level 02.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%AE%E0%A5%88%E0%A4%A8%E0%A5%87%E0%A4%9C%E0%A4%B0-%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B0-02-%E0%A4%95%E0%A5%80-%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%80",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "सरकारी ई-मार्केटप्लेस (GeM) के ज़रिए \"कस्तूरबा गांधी बालिका विद्यालयों (KGBVs) में ICT इंफ्रास्ट्रक्चर की सप्लाई\" के लिए टेंडर (GeM बिड नंबर: GEM/2026/B/7732547, तारीख 03.07.2026) के तहत बिड जमा करने की तारीख बढ़ाने के लिए सूचना।",
+      "url": "https://ernet.in/sites/default/files/pdf/Notice for Extension of Bid Submission-KGBV.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%88-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%87%E0%A4%9F%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%B8-gem-%E0%A4%95%E0%A5%87-%E0%A4%9C%E0%A4%BC%E0%A4%B0%E0%A4%BF%E0%A4%8F-%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%82%E0%A4%B0%E0%A4%AC%E0%A4%BE-%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%A7%E0%A5%80-%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A5%8B%E0%A4%82-kgbvs-%E0%A4%AE%E0%A5%87%E0%A4%82-ict",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "सरकारी ई-मार्केटप्लेस (GeM) के ज़रिए \"कस्तूरबा गांधी बालिका विद्यालयों (KGBVs) में ICT इंफ्रास्ट्रक्चर की सप्लाई\" के लिए टेंडर (GeM बिड नंबर: GEM/2026/B/7732547, तारीख 03.07.2026) से जुड़े सवालों के जवाब के संबंध में टेंडर में सुधार (Corrigendum)।",
+      "url": "https://ernet.in/sites/default/files/pdf/GeM-Bidding-Corr-9545022-1.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%88-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%87%E0%A4%9F%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%B8-gem-%E0%A4%95%E0%A5%87-%E0%A4%9C%E0%A4%BC%E0%A4%B0%E0%A4%BF%E0%A4%8F-%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%82%E0%A4%B0%E0%A4%AC%E0%A4%BE-%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%A7%E0%A5%80-%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A5%8B%E0%A4%82-kgbvs-%E0%A4%AE%E0%A5%87%E0%A4%82-ict",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "सरकारी ई-मार्केटप्लेस (GeM) के ज़रिए कस्तूरबा गांधी बालिका विद्यालयों (KGBVs) में ICT इंफ्रास्ट्रक्चर की सप्लाई",
+      "url": "https://ernet.in/sites/default/files/pdf/GeM-Bidding-9545022.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%88-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%87%E0%A4%9F%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%B8-gem-%E0%A4%95%E0%A5%87-%E0%A4%9C%E0%A4%BC%E0%A4%B0%E0%A4%BF%E0%A4%8F-%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%82%E0%A4%B0%E0%A4%AC%E0%A4%BE-%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%A7%E0%A5%80-%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%95%E0%A4%BE-%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF%E0%A5%8B%E0%A4%82-kgbvs-%E0%A4%AE%E0%A5%87%E0%A4%82-ict",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "सरकारी ई-मार्केटप्लेस (GeM) के माध्यम से प्रिंटर, लैपटॉप, डेस्कटॉप, सर्वर, स्टोरेज, स्कैनर, नेटवर्क स्विच आदि के लिए व्यापक वार्षिक रखरखाव अनुबंध (CAMC) के संबंध में।",
+      "url": "https://ernet.in/sites/default/files/pdf/GeM-Bidding-9783565.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%88-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%87%E0%A4%9F%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%B8-gem-%E0%A4%95%E0%A5%87-%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AE-%E0%A4%B8%E0%A5%87-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%9F%E0%A4%B0-%E0%A4%B2%E0%A5%88%E0%A4%AA%E0%A4%9F%E0%A5%89%E0%A4%AA-%E0%A4%A1%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%9F%E0%A5%89%E0%A4%AA-%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%B0-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9C-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%88%E0%A4%A8%E0%A4%B0-%E0%A4%A8%E0%A5%87%E0%A4%9F%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%95",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "स्मार्ट क्लासरूम परियोजना के अंतर्गत प्रशासनिक सहायक (प्रोक्योरमेंट) की भर्ती",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/final advertisement Administrative Assistant.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A4%B0%E0%A5%82%E0%A4%AE-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%95-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%B0%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%9F-%E0%A4%95%E0%A5%80-%E0%A4%AD%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%80",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    },
+    {
+      "title": "स्मार्ट क्लासरूम परियोजना के अंतर्गत तकनीकी कर्मचारियों की भर्ती",
+      "url": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/sites/default/files/pdf/final%20advertisement%20Smart%20Classroom.pdf",
+      "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F-%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B8%E0%A4%B0%E0%A5%82%E0%A4%AE-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-%E0%A4%95%E0%A5%87-%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0-%E0%A4%B2%E0%A5%87%E0%A4%B5%E0%A4%B2-02-%E0%A4%B5%E0%A4%B0%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A0-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F-%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0",
+      "status": "Link verified; document content not audited",
+      "verified": "2026-10-24"
+    }
+  ],
+  "contact": {
+    "source": "https://xn--m1bd4e9a1b9i.xn--h2brj9c/content/%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%95-%E0%A4%95%E0%A4%B0%E0%A5%87",
+    "email": "support@eis.ernet.in",
+    "offices": [
+      {
+        "name": "New Delhi — Headquarters",
+        "address": "5th Floor, Block-I, A Wing, DMRC IT Park, Shastri Park, New Delhi 110053",
+        "phone": "+91 11-22170578"
+      },
+      {
+        "name": "Bengaluru — Regional Centre",
+        "address": "1st Floor, Innovation Centre, Society for Innovation and Development (SID), Indian Institute of Science Campus, Malleswaram, Bengaluru 560012",
+        "phone": "+91 80-23617532"
+      },
+      {
+        "name": "Chennai — Regional Centre",
+        "address": "3rd Floor, IIT Madras Research Park, Kanagam Road, Taramani, Chennai, Tamil Nadu 600113",
+        "phone": "+91 44-66469828"
+      }
+    ],
+    "domainHelpdesk": {
+      "email": "helpdesk@domain.ernet.in",
+      "phones": [
+        "011-22170580",
+        "011-22170594"
+      ],
+      "hours": "Monday–Friday, 9:30 AM–5:00 PM",
+      "instructions": "Email to open a ticket before calling.",
+      "source": "https://registry.ernet.in/contact-us"
+    }
+  },
+  "limits": [
+    "Official informational replica; no authorization to represent the Government of India.",
+    "No registration, payment, DNS changes, hosting, LMS publishing, login or message submission has been integrated.",
+    "Official pages contain historical descriptions and broken links; preserve publication context.",
+    "Copyright policy requires permission for republication of source material. Authored summaries are provided; source assets require rights review.",
+    "Main-site latest-news archive currently returns no results.",
+    "Domain 2025 guidelines supersede conflicting older registry checklist text.",
+    "Tariff DNS-modification tax row is inconsistent; omitted from display-ready data.",
+    "Registry tariff lists ten-year renewal while guidelines say maximum nine years at a time; link to current portal for determination."
+  ]
+}

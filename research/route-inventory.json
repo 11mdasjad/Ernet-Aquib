@@ -1,0 +1,287 @@
+[
+  {
+    "path": "/",
+    "title": "Home",
+    "file": "dist/index.html"
+  },
+  {
+    "path": "/about",
+    "title": "About ERNET India",
+    "file": "dist/about/index.html"
+  },
+  {
+    "path": "/about/objectives",
+    "title": "Vision & Objectives",
+    "file": "dist/about/objectives/index.html"
+  },
+  {
+    "path": "/about/history",
+    "title": "Our Journey",
+    "file": "dist/about/history/index.html"
+  },
+  {
+    "path": "/about/organization",
+    "title": "Organization & Governance",
+    "file": "dist/about/organization/index.html"
+  },
+  {
+    "path": "/about/centres",
+    "title": "ERNET Centres",
+    "file": "dist/about/centres/index.html"
+  },
+  {
+    "path": "/about/citizen-charter",
+    "title": "Citizen’s Charter",
+    "file": "dist/about/citizen-charter/index.html"
+  },
+  {
+    "path": "/services",
+    "title": "Our Services",
+    "file": "dist/services/index.html"
+  },
+  {
+    "path": "/network",
+    "title": "Network Infrastructure",
+    "file": "dist/network/index.html"
+  },
+  {
+    "path": "/projects",
+    "title": "Projects & Initiatives",
+    "file": "dist/projects/index.html"
+  },
+  {
+    "path": "/research",
+    "title": "Research & Development",
+    "file": "dist/research/index.html"
+  },
+  {
+    "path": "/resources",
+    "title": "Publications & Resources",
+    "file": "dist/resources/index.html"
+  },
+  {
+    "path": "/resources/annual-reports",
+    "title": "Annual Reports",
+    "file": "dist/resources/annual-reports/index.html"
+  },
+  {
+    "path": "/rti",
+    "title": "RTI & Public Information",
+    "file": "dist/rti/index.html"
+  },
+  {
+    "path": "/policies",
+    "title": "Website Policies",
+    "file": "dist/policies/index.html"
+  },
+  {
+    "path": "/careers",
+    "title": "Careers & Recruitment",
+    "file": "dist/careers/index.html"
+  },
+  {
+    "path": "/news",
+    "title": "News & Events",
+    "file": "dist/news/index.html"
+  },
+  {
+    "path": "/tenders",
+    "title": "Tenders & Procurement",
+    "file": "dist/tenders/index.html"
+  },
+  {
+    "path": "/contact",
+    "title": "Contact Us",
+    "file": "dist/contact/index.html"
+  },
+  {
+    "path": "/feedback",
+    "title": "Feedback & Grievances",
+    "file": "dist/feedback/index.html"
+  },
+  {
+    "path": "/portals",
+    "title": "Institutional Service Portals",
+    "file": "dist/portals/index.html"
+  },
+  {
+    "path": "/accessibility",
+    "title": "Accessibility & Help",
+    "file": "dist/accessibility/index.html"
+  },
+  {
+    "path": "/search",
+    "title": "Search",
+    "file": "dist/search/index.html"
+  },
+  {
+    "path": "/sitemap",
+    "title": "Sitemap",
+    "file": "dist/sitemap/index.html"
+  },
+  {
+    "path": "/services/domain-registration",
+    "title": "Domain Registration",
+    "file": "dist/services/domain-registration/index.html"
+  },
+  {
+    "path": "/services/dns",
+    "title": "DNS Services",
+    "file": "dist/services/dns/index.html"
+  },
+  {
+    "path": "/services/website-as-a-service",
+    "title": "Website as a Service",
+    "file": "dist/services/website-as-a-service/index.html"
+  },
+  {
+    "path": "/services/learning-management",
+    "title": "Learning Management as a Service",
+    "file": "dist/services/learning-management/index.html"
+  },
+  {
+    "path": "/services/connectivity",
+    "title": "Terrestrial & Satellite Connectivity",
+    "file": "dist/services/connectivity/index.html"
+  },
+  {
+    "path": "/services/campus-networking",
+    "title": "Campus Networking & Wi-Fi",
+    "file": "dist/services/campus-networking/index.html"
+  },
+  {
+    "path": "/services/eduroam",
+    "title": "eduroam",
+    "file": "dist/services/eduroam/index.html"
+  },
+  {
+    "path": "/services/web-hosting",
+    "title": "Web Hosting & Email",
+    "file": "dist/services/web-hosting/index.html"
+  },
+  {
+    "path": "/services/ict-consultancy",
+    "title": "ICT Consultancy",
+    "file": "dist/services/ict-consultancy/index.html"
+  },
+  {
+    "path": "/services/ipv6",
+    "title": "IPv6 & Next-generation Networks",
+    "file": "dist/services/ipv6/index.html"
+  },
+  {
+    "path": "/services/smart-classrooms",
+    "title": "Smart Classrooms & Education Technology",
+    "file": "dist/services/smart-classrooms/index.html"
+  },
+  {
+    "path": "/services/training",
+    "title": "Training & Capacity Building",
+    "file": "dist/services/training/index.html"
+  },
+  {
+    "path": "/services/collaboration",
+    "title": "Video Conferencing & Collaboration",
+    "file": "dist/services/collaboration/index.html"
+  },
+  {
+    "path": "/services/research-development",
+    "title": "Research & Development",
+    "file": "dist/services/research-development/index.html"
+  },
+  {
+    "path": "/services/infrastructure",
+    "title": "Institutional Infrastructure",
+    "file": "dist/services/infrastructure/index.html"
+  },
+  {
+    "path": "/projects/medical-e-classrooms",
+    "title": "E-classrooms for 50 medical colleges",
+    "file": "dist/projects/medical-e-classrooms/index.html"
+  },
+  {
+    "path": "/projects/iot-centre",
+    "title": "Centre of Excellence for IoT",
+    "file": "dist/projects/iot-centre/index.html"
+  },
+  {
+    "path": "/projects/lifi-testbed",
+    "title": "LiFi experimental testbed",
+    "file": "dist/projects/lifi-testbed/index.html"
+  },
+  {
+    "path": "/projects/optical-wireless",
+    "title": "Optical wireless access networks",
+    "file": "dist/projects/optical-wireless/index.html"
+  },
+  {
+    "path": "/projects/ner-classrooms",
+    "title": "Smart virtual classrooms in the North East",
+    "file": "dist/projects/ner-classrooms/index.html"
+  },
+  {
+    "path": "/projects/accessible-websites",
+    "title": "Accessible government websites",
+    "file": "dist/projects/accessible-websites/index.html"
+  },
+  {
+    "path": "/projects/isea",
+    "title": "Information Security Education & Awareness",
+    "file": "dist/projects/isea/index.html"
+  },
+  {
+    "path": "/projects/icar-data-centre",
+    "title": "ICAR institutional data centre",
+    "file": "dist/projects/icar-data-centre/index.html"
+  },
+  {
+    "path": "/projects/rural-ict",
+    "title": "ICT centres for rural schools",
+    "file": "dist/projects/rural-ict/index.html"
+  },
+  {
+    "path": "/projects/accessible-ict",
+    "title": "ICT vocational centres for students with disabilities",
+    "file": "dist/projects/accessible-ict/index.html"
+  },
+  {
+    "path": "/projects/school-lan",
+    "title": "IT infrastructure and LAN for school e-learning",
+    "file": "dist/projects/school-lan/index.html"
+  },
+  {
+    "path": "/projects/digital-library",
+    "title": "Digital library repository",
+    "file": "dist/projects/digital-library/index.html"
+  },
+  {
+    "path": "/news/ict-maintenance",
+    "title": "Comprehensive annual maintenance of ICT equipment",
+    "file": "dist/news/ict-maintenance/index.html"
+  },
+  {
+    "path": "/news/kgbv-infrastructure",
+    "title": "Supply of ICT infrastructure in KGBVs",
+    "file": "dist/news/kgbv-infrastructure/index.html"
+  },
+  {
+    "path": "/news/project-manager-level-02",
+    "title": "Recruitment of Project Manager Level 02",
+    "file": "dist/news/project-manager-level-02/index.html"
+  },
+  {
+    "path": "/news/project-engineer-level-02",
+    "title": "Project Engineer Level 02 — ICT & Data Centre project",
+    "file": "dist/news/project-engineer-level-02/index.html"
+  },
+  {
+    "path": "/events",
+    "title": "Events & Workshops",
+    "file": "dist/events/index.html"
+  },
+  {
+    "path": "/about/acts-rules",
+    "title": "Acts & Rules",
+    "file": "dist/about/acts-rules/index.html"
+  }
+]

@@ -1,0 +1,355 @@
+{
+  "testedAt": "2026-10-23T19:46:32.778Z",
+  "routes": [
+    {
+      "path": "/",
+      "status": 200,
+      "heading": "Empowering India’s\nEducation & Research\nEcosystem"
+    },
+    {
+      "path": "/about",
+      "status": 200,
+      "heading": "About ERNET India"
+    },
+    {
+      "path": "/about/objectives",
+      "status": 200,
+      "heading": "Vision & Objectives"
+    },
+    {
+      "path": "/about/history",
+      "status": 200,
+      "heading": "Our Journey"
+    },
+    {
+      "path": "/about/organization",
+      "status": 200,
+      "heading": "Organization & Governance"
+    },
+    {
+      "path": "/about/centres",
+      "status": 200,
+      "heading": "ERNET Centres"
+    },
+    {
+      "path": "/about/citizen-charter",
+      "status": 200,
+      "heading": "Citizen’s Charter"
+    },
+    {
+      "path": "/services",
+      "status": 200,
+      "heading": "Our Services"
+    },
+    {
+      "path": "/network",
+      "status": 200,
+      "heading": "Network Infrastructure"
+    },
+    {
+      "path": "/projects",
+      "status": 200,
+      "heading": "Projects & Initiatives"
+    },
+    {
+      "path": "/research",
+      "status": 200,
+      "heading": "Research & Development"
+    },
+    {
+      "path": "/resources",
+      "status": 200,
+      "heading": "Publications & Resources"
+    },
+    {
+      "path": "/resources/annual-reports",
+      "status": 200,
+      "heading": "Annual Reports"
+    },
+    {
+      "path": "/rti",
+      "status": 200,
+      "heading": "RTI & Public Information"
+    },
+    {
+      "path": "/policies",
+      "status": 200,
+      "heading": "Website Policies & Credits"
+    },
+    {
+      "path": "/careers",
+      "status": 200,
+      "heading": "Careers & Recruitment"
+    },
+    {
+      "path": "/news",
+      "status": 200,
+      "heading": "News & Events"
+    },
+    {
+      "path": "/tenders",
+      "status": 200,
+      "heading": "Tenders & Procurement"
+    },
+    {
+      "path": "/contact",
+      "status": 200,
+      "heading": "Contact Us"
+    },
+    {
+      "path": "/feedback",
+      "status": 200,
+      "heading": "Feedback & Grievances"
+    },
+    {
+      "path": "/portals",
+      "status": 200,
+      "heading": "Institutional Service Portals"
+    },
+    {
+      "path": "/accessibility",
+      "status": 200,
+      "heading": "Accessibility & Help"
+    },
+    {
+      "path": "/search",
+      "status": 200,
+      "heading": "Search ERNET India"
+    },
+    {
+      "path": "/sitemap",
+      "status": 200,
+      "heading": "Sitemap"
+    },
+    {
+      "path": "/services/domain-registration",
+      "status": 200,
+      "heading": "Domain Registration"
+    },
+    {
+      "path": "/services/dns",
+      "status": 200,
+      "heading": "DNS Services"
+    },
+    {
+      "path": "/services/website-as-a-service",
+      "status": 200,
+      "heading": "Website as a Service"
+    },
+    {
+      "path": "/services/learning-management",
+      "status": 200,
+      "heading": "Learning Management as a Service"
+    },
+    {
+      "path": "/services/connectivity",
+      "status": 200,
+      "heading": "Terrestrial & Satellite Connectivity"
+    },
+    {
+      "path": "/services/campus-networking",
+      "status": 200,
+      "heading": "Campus Networking & Wi-Fi"
+    },
+    {
+      "path": "/services/eduroam",
+      "status": 200,
+      "heading": "eduroam"
+    },
+    {
+      "path": "/services/web-hosting",
+      "status": 200,
+      "heading": "Web Hosting & Email"
+    },
+    {
+      "path": "/services/ict-consultancy",
+      "status": 200,
+      "heading": "ICT Consultancy"
+    },
+    {
+      "path": "/services/ipv6",
+      "status": 200,
+      "heading": "IPv6 & Next-generation Networks"
+    },
+    {
+      "path": "/services/smart-classrooms",
+      "status": 200,
+      "heading": "Smart Classrooms & Education Technology"
+    },
+    {
+      "path": "/services/training",
+      "status": 200,
+      "heading": "Training & Capacity Building"
+    },
+    {
+      "path": "/services/collaboration",
+      "status": 200,
+      "heading": "Video Conferencing & Collaboration"
+    },
+    {
+      "path": "/services/research-development",
+      "status": 200,
+      "heading": "Research & Development"
+    },
+    {
+      "path": "/services/infrastructure",
+      "status": 200,
+      "heading": "Institutional Infrastructure"
+    },
+    {
+      "path": "/projects/medical-e-classrooms",
+      "status": 200,
+      "heading": "E-classrooms for 50 medical colleges"
+    },
+    {
+      "path": "/projects/iot-centre",
+      "status": 200,
+      "heading": "Centre of Excellence for IoT"
+    },
+    {
+      "path": "/projects/lifi-testbed",
+      "status": 200,
+      "heading": "LiFi experimental testbed"
+    },
+    {
+      "path": "/projects/optical-wireless",
+      "status": 200,
+      "heading": "Optical wireless access networks"
+    },
+    {
+      "path": "/projects/ner-classrooms",
+      "status": 200,
+      "heading": "Smart virtual classrooms in the North East"
+    },
+    {
+      "path": "/projects/accessible-websites",
+      "status": 200,
+      "heading": "Accessible government websites"
+    },
+    {
+      "path": "/projects/isea",
+      "status": 200,
+      "heading": "Information Security Education & Awareness"
+    },
+    {
+      "path": "/projects/icar-data-centre",
+      "status": 200,
+      "heading": "ICAR institutional data centre"
+    },
+    {
+      "path": "/projects/rural-ict",
+      "status": 200,
+      "heading": "ICT centres for rural schools"
+    },
+    {
+      "path": "/projects/accessible-ict",
+      "status": 200,
+      "heading": "ICT vocational centres for students with disabilities"
+    },
+    {
+      "path": "/projects/school-lan",
+      "status": 200,
+      "heading": "IT infrastructure and LAN for school e-learning"
+    },
+    {
+      "path": "/projects/digital-library",
+      "status": 200,
+      "heading": "Digital library repository"
+    },
+    {
+      "path": "/news/ict-maintenance",
+      "status": 200,
+      "heading": "Comprehensive annual maintenance of ICT equipment"
+    },
+    {
+      "path": "/news/kgbv-infrastructure",
+      "status": 200,
+      "heading": "Supply of ICT infrastructure in KGBVs"
+    },
+    {
+      "path": "/news/project-manager-level-02",
+      "status": 200,
+      "heading": "Recruitment of Project Manager Level 02"
+    },
+    {
+      "path": "/news/project-engineer-level-02",
+      "status": 200,
+      "heading": "Project Engineer Level 02 — ICT & Data Centre project"
+    },
+    {
+      "path": "/events",
+      "status": 200,
+      "heading": "Events & Workshops"
+    },
+    {
+      "path": "/about/acts-rules",
+      "status": 200,
+      "heading": "Acts & Rules"
+    }
+  ],
+  "responsive": [],
+  "functional": [
+    "Service filters, search, empty state and reset",
+    "Resource categories, year filter and pagination",
+    "Project categories and pagination",
+    "Site search, query URL and safe text handling",
+    "Required validation, enquiry draft, real mailto recipient and draft download; no submission",
+    "FAQ accordion",
+    "Mobile menu, Escape and navigation",
+    "Persisted text preferences and contrast toggle",
+    "404 error page"
+  ],
+  "accessibility": [
+    {
+      "path": "/",
+      "violations": []
+    },
+    {
+      "path": "/services",
+      "violations": []
+    },
+    {
+      "path": "/services/domain-registration",
+      "violations": []
+    },
+    {
+      "path": "/about",
+      "violations": []
+    },
+    {
+      "path": "/network",
+      "violations": []
+    },
+    {
+      "path": "/projects",
+      "violations": []
+    },
+    {
+      "path": "/resources",
+      "violations": []
+    },
+    {
+      "path": "/news",
+      "violations": []
+    },
+    {
+      "path": "/contact",
+      "violations": []
+    },
+    {
+      "path": "/portals",
+      "violations": []
+    },
+    {
+      "path": "/policies",
+      "violations": []
+    },
+    {
+      "path": "/events",
+      "violations": []
+    }
+  ],
+  "errors": [],
+  "brokenInternal": [],
+  "passed": true
+}

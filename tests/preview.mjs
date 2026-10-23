@@ -1,0 +1,11 @@
+import {chromium} from 'playwright';
+import {mkdirSync} from 'node:fs';
+mkdirSync('test-results',{recursive:true});
+const browser=await chromium.launch({executablePath:'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',headless:true});
+const page=await browser.newPage({viewport:{width:1440,height:1050},deviceScaleFactor:1});
+page.on('pageerror',err=>console.log('PAGE ERROR',err.message));
+await page.goto('http://127.0.0.1:4173/',{waitUntil:'networkidle'});
+await page.screenshot({path:'test-results/home-desktop.png',fullPage:true});
+await page.setViewportSize({width:375,height:900});
+await page.screenshot({path:'test-results/home-mobile.png',fullPage:true});
+await browser.close();
