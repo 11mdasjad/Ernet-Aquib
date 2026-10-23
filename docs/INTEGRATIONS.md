@@ -31,7 +31,7 @@ All scripts, images and font files are served locally. Open Font License texts a
 ## Known limits
 
 - The supplied visual image and the accessible official Hindi Drupal site have different designs. The implementation follows the image’s composition with the official site’s verified institutional content; it is not a pixel-identical clone of the live Drupal pages.
-- The header uses public-domain State Emblem artwork at the user’s request for the private reference. Public-domain copyright status does not establish permission for official or endorsement-implying use. Restricted ERNET logo reference copies remain outside deployed assets.
+- The header uses public-domain State Emblem artwork at the user’s request for the private reference. Public-domain copyright status does not establish permission for official or endorsement-implying use. The original ERNET logo is included at the user’s explicit request, with source attribution and no claim of official authorization.
 - The site is an English interpretation with an explicit link to the official Hindi site, not a fully localized Hindi replica.
 - Archive coverage consists of curated verified entries plus links to complete official archives; it does not mirror every historical notice and PDF.
 - Annual-report PDF links were tested, but full PDF contents and accessibility were not audited.

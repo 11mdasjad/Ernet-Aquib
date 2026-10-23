@@ -39,3 +39,7 @@ Fixed the missing domain enquiry option, adjusted identification and source-note
 ## Verification boundaries
 
 The automated suite tests the public reference implementation, not official external portal transactions. No real email, domain application, payment, tender submission or recruitment application was sent. No manual screen-reader audit or formal government accessibility certification is claimed. All route widths were checked for overflow; screenshots and visual review cover representative pages, not every route at every width. External institutional content can change after the recorded verification date.
+
+## ERNET logo correction verification
+
+The shared header and footer now use the original 300×132 ERNET PNG. A targeted browser check verified both images load, preserve their original aspect ratio, and replace the manually typeset logo. The homepage fits all eight requested viewport widths. Generated HTML includes content-versioned JavaScript and CSS URLs. Header, footer and mobile screenshots are in `test-results/official-logo-*.png`. The existing Safari localhost tab was navigated to the updated page. This targeted check does not represent a new full-suite run.

@@ -98,14 +98,18 @@
       "note": "Included at user request in the private reference design. Full emblem and motto retained; intrinsic proportions preserved. This inclusion does not claim authorization or government affiliation.",
       "width": 550,
       "height": 877
+    },
+    {
+      "file": "assets/ernet-official-logo.png",
+      "source": "https://ernet.in/sites/all/themes/ernet/logo.png",
+      "author": "ERNET India",
+      "license": "Official institutional artwork; rights retained by its owner",
+      "note": "Original unmodified artwork included at the user’s explicit request in a private reference design. Source attribution and independent-site disclosure retained; no official authorization claimed.",
+      "width": 300,
+      "height": 132
     }
   ],
   "reference_only": [
-    {
-      "file": "research/reference-assets/ernet-logo.png",
-      "source": "https://ernet.in/sites/all/themes/ernet/logo.png",
-      "note": "Official reference only. Not included in dist. Reproduction rights not established."
-    },
     {
       "file": "research/reference-assets/emblem-india.png",
       "source": "https://ernet.in/sites/all/themes/ernet/images/Emblem_of_India1.png",

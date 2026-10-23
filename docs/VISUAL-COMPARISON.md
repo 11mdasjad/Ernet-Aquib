@@ -38,3 +38,7 @@ No automated image-difference score is reported because the official live design
 ## Header refinement requested after review
 
 Replaced the generic building icon with the complete State Emblem of India from public-domain vector artwork. Retained the motto, black rendering and original proportions, with a 44×70 px desktop image and compact 36×58 px intermediate layout. The independent-reference disclosure remains visible.
+
+## ERNET logo refinement requested after review
+
+Replaced the manually typeset ERNET title and separate subtitles with the original 300×132 ERNET logo image from its official site. The artwork is unmodified, rendered at its intrinsic aspect ratio, and placed on white in the footer for legibility. Added content-versioned stylesheet and entry-script URLs so new builds request fresh assets.
