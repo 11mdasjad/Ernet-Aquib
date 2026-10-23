@@ -54,3 +54,18 @@ Removed the header search form and its event listener. Kept the desktop ERNET lo
 
 ### Header alignment — 2026-10-24
 Moved ERNET artwork to the left and the government emblem/ministry block to the right edge of the shared header container. Rebuilt all routes and checked JavaScript syntax. A focused Chrome check passed at 320, 375, 430, 768, 1024, 1366, 1440 and 1920px: correct alignment, no horizontal overflow and no browser errors. Mobile navigation was exercised at 375px; desktop and mobile header screenshots captured for visual review.
+
+### Domain registration workspace — 24 October 2026
+
+Implemented `/domain-registration` and connected the existing service-portal card. Verified official requirements and documented source/schema boundaries in `research/DOMAIN-SOURCES.md` and `docs/DOMAIN-REGISTRATION.md`.
+
+- `npm run build`: 58 routes plus the 404 page.
+- `npm run test:domain`: passed. ASCII and IDN prechecks, file-size boundaries, renamed/empty/non-PDF rejection, step gating, preliminary eligibility refusal, DNS hostname/duplicate checks, three-document government-school path and ten-document conditional research/translation/parent-GST path.
+- Full preparation journey: institution contacts, remove/replace files, review escaping, mandatory unchecked declarations, explicit JSON download, official handoff URL and tracking link. Re-selecting a category invalidates later steps and files. No official steps marked complete.
+- Responsive checks: all seven workflow screens at 320, 375, 430, 768, 1024, 1366 and 1440 px, 49 combinations, no horizontal overflow.
+- Axe: all seven workflow screens passed WCAG 2 A/AA and 2.1 AA automated checks after correcting breadcrumb contrast and an inline support link.
+- Existing `npm test`: all 58 routes × eight widths passed; nine existing functional checks and existing accessibility suite passed with zero violations.
+- Browser errors: none. Application/file network submissions: none. Private preparation details did not appear in localStorage; refresh cleared the draft.
+- Desktop initial, focused review and mobile viewport screenshots inspected. A full-page capture during viewport changes produced a stitching artifact; focused reduced-motion screenshots confirmed a single shared header and correct review layout. Test capture context now uses reduced motion.
+
+Official public sources and destinations were inspected. The test stubs the external handoff page; actual ERNET availability, registration, authenticated tracking, payments, approval and DNS actions were not executed or claimed. PDF checks are local signature/size checks, not server validation or malware scanning. No backend exists in this documented preparation mode.

@@ -6,7 +6,8 @@ The requested information website is implemented without a backend because no au
 
 | Action | Actual behavior |
 | --- | --- |
-| Domain availability, registration, renewal, status and DNS management | Opens official ERNET registry; no local results or approvals are fabricated |
+| Domain preparation | Browser-memory eligibility/name/contact/document/review flow; PDFs are checked locally, never uploaded. Optional explicit draft download. See DOMAIN-REGISTRATION.md. |
+| Actual domain availability, registration, renewal, status and DNS management | Opens official ERNET registry; no official results or approvals are fabricated |
 | Website/LMS templates, publishing and subscriptions | Opens official registry VAS portal |
 | eduroam participation and configuration | Opens official eduroam portal |
 | Service login | Portal selection with external links; no credential capture |
@@ -24,7 +25,7 @@ A future backend must provide authenticated server sessions, institutional autho
 
 ## Security and privacy
 
-No secrets, personal records or production credentials are included. User-entered text is escaped before display. The enquiry form makes no network submission. Browser storage holds only contrast and text-size preferences. Security response headers are supplied in `dist/_headers`; confirm equivalent headers when deploying to a host that does not support that file format. The local preview server is for development, binds to loopback, and is not a production server.
+No secrets, personal records or production credentials are included. User-entered text is escaped before display. The enquiry form makes no network submission. Persistent browser storage holds only contrast and text-size preferences. Domain preparation details/file metadata live only in page memory until refresh or clear; explicit draft downloads are user-controlled local files. Security response headers are supplied in `dist/_headers`; confirm equivalent headers when deploying to a host that does not support that file format. The local preview server is for development, binds to loopback, and is not a production server.
 
 All scripts, images and font files are served locally. Open Font License texts accompany the fonts. External links use `noopener noreferrer`. Production hosting must provide HTTPS. Source control is the recovery mechanism for the static content; no application database requires backup. Host-level request logging and private access are provided by the hosting service, not application code.
 

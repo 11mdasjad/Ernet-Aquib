@@ -195,6 +195,11 @@
     "file": "dist/services/infrastructure/index.html"
   },
   {
+    "path": "/domain-registration",
+    "title": "Domain Registration",
+    "file": "dist/domain-registration/index.html"
+  },
+  {
     "path": "/projects/medical-e-classrooms",
     "title": "E-classrooms for 50 medical colleges",
     "file": "dist/projects/medical-e-classrooms/index.html"

@@ -841,3 +841,4 @@ export const pages = [
     "Institutional Infrastructure"
   ]
 ];
+pages.push(['/domain-registration','Domain Registration']);

@@ -16,7 +16,7 @@ Open http://127.0.0.1:4173. Stop with Ctrl+C. To use another port: `PORT=4174 np
 
 ## What is implemented
 
-- 57 static routes plus a 404 page, with shared navigation, breadcrumbs, search and footer.
+- 58 static routes plus a 404 page, with shared navigation, breadcrumbs, search and footer.
 - 15 detailed service pages: domain registration, DNS, WaaS, LMaaS, terrestrial/satellite connectivity, campus networking, eduroam, hosting/email, consultancy, IPv6, smart classrooms, training, collaboration, research and institutional infrastructure.
 - About, history, objectives, governance, centres, Citizen’s Charter and Acts & Rules.
 - 12 documented projects with individual detail pages, published status and source links.
@@ -24,6 +24,7 @@ Open http://127.0.0.1:4173. Stop with Ctrl+C. To use another port: `PORT=4174 np
 - 15 curated official PDF resources with category, year, keyword filtering and pagination.
 - Service and project filters, site-wide search, mobile navigation, FAQ accordions, text size and high-contrast controls.
 - Validated contact form that prepares an email draft and supports downloading it. It does not send or store enquiries.
+- Domain registration preparation workspace at `/domain-registration`: eligibility, name checks, conditional PDF readiness, institution/contact draft, review, declarations and official handoff. See [portal documentation](docs/DOMAIN-REGISTRATION.md).
 - Official service portal links; no replica login or payment collection.
 
 ## Source structure
@@ -48,6 +49,7 @@ Run `npm run build` after changing research data or routes. Deploy only `dist/`,
 ```sh
 # Start npm run dev in another terminal first
 npm test
+npm run test:domain
 ```
 
 The test suite uses the installed Google Chrome app on macOS. Set `CHROME_PATH` to a Chromium executable on other systems and `TEST_ORIGIN` to another local preview origin if needed. Development dependencies are Playwright and axe-core; they are not served to users.
