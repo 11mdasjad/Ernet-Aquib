@@ -47,3 +47,7 @@ The shared header and footer now use the original 300×132 ERNET PNG. A targeted
 ## Top strip removal
 
 Removed the entire visible utility strip from the shared header. Reading preference controls are available on the Accessibility page, and the keyboard skip link remains available on focus. Updated the preference test to use that page. Re-ran the complete suite: 57 routes, eight viewport widths, nine functional groups, and zero automated accessibility violations on the 12 representative pages. The local Safari tab was refreshed to the current version.
+
+## Header search removal
+
+Removed the header search form and its event listener. Kept the desktop ERNET logo centered and checked all eight viewport widths. Verified homepage, services, contact and standalone search render without browser errors, and checked mobile menu opening and Escape closing. Captured desktop and mobile header screenshots in `test-results/no-header-search-*.png`. This was a targeted regression check.
