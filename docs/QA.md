@@ -69,3 +69,9 @@ Implemented `/domain-registration` and connected the existing service-portal car
 - Desktop initial, focused review and mobile viewport screenshots inspected. A full-page capture during viewport changes produced a stitching artifact; focused reduced-motion screenshots confirmed a single shared header and correct review layout. Test capture context now uses reduced motion.
 
 Official public sources and destinations were inspected. The test stubs the external handoff page; actual ERNET availability, registration, authenticated tracking, payments, approval and DNS actions were not executed or claimed. PDF checks are local signature/size checks, not server validation or malware scanning. No backend exists in this documented preparation mode.
+
+### Service Portals visual update — 24 October 2026
+
+Reworked `/portals` to follow the supplied compact service-directory reference: illustrated institutional banner, four service cards with category labels and secondary guidance links, a help strip, active Service Portals navigation and a compact footer. Retained the existing official logo, ERNET-left/ministry-right arrangement, removed header utility/search controls, verified contact information and local registration preparation route. All page-specific header/footer changes are scoped to `.portal-view`.
+
+Build and JavaScript syntax checks passed. Focused browser verification covered 320, 375, 430, 768, 1024, 1366, 1440 and 1586px without horizontal overflow. Every internal portal-page link returned HTTP 200. The Domain Registration card opened the existing preparation workflow and page-specific portal styling cleared on navigation. Desktop axe checks reported zero WCAG A/AA violations; no browser errors occurred. Desktop/mobile screenshots were visually inspected. The full registration suite was not rerun because its form implementation did not change.
