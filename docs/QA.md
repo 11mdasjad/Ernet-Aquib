@@ -51,3 +51,6 @@ Removed the entire visible utility strip from the shared header. Reading prefere
 ## Header search removal
 
 Removed the header search form and its event listener. Kept the desktop ERNET logo centered and checked all eight viewport widths. Verified homepage, services, contact and standalone search render without browser errors, and checked mobile menu opening and Escape closing. Captured desktop and mobile header screenshots in `test-results/no-header-search-*.png`. This was a targeted regression check.
+
+### Header alignment — 2026-10-24
+Moved ERNET artwork to the left and the government emblem/ministry block to the right edge of the shared header container. Rebuilt all routes and checked JavaScript syntax. A focused Chrome check passed at 320, 375, 430, 768, 1024, 1366, 1440 and 1920px: correct alignment, no horizontal overflow and no browser errors. Mobile navigation was exercised at 375px; desktop and mobile header screenshots captured for visual review.
