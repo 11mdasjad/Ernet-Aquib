@@ -107,6 +107,16 @@
       "note": "Original unmodified artwork included at the user’s explicit request in a private reference design. Source attribution and independent-site disclosure retained; no official authorization claimed.",
       "width": 300,
       "height": 132
+    },
+    {
+      "file": "assets/home-tricolour-banner.jpg",
+      "author": "User-supplied reference; image-generation adaptation",
+      "license": "User-provided for this project; third-party rights are not independently asserted",
+      "note": "Text-free adaptation of the supplied homepage banner reference. Existing heading and search are rendered as accessible HTML. Decorative architectural and network-map composition; not a geographic reference. JPEG delivery conversion of the generated PNG.",
+      "width": 2172,
+      "height": 724,
+      "bytes": 420155,
+      "provenance": "User-supplied banner reference, adapted with OpenAI image generation"
     }
   ],
   "reference_only": [
