@@ -43,3 +43,7 @@ The automated suite tests the public reference implementation, not official exte
 ## ERNET logo correction verification
 
 The shared header and footer now use the original 300×132 ERNET PNG. A targeted browser check verified both images load, preserve their original aspect ratio, and replace the manually typeset logo. The homepage fits all eight requested viewport widths. Generated HTML includes content-versioned JavaScript and CSS URLs. Header, footer and mobile screenshots are in `test-results/official-logo-*.png`. The existing Safari localhost tab was navigated to the updated page. This targeted check does not represent a new full-suite run.
+
+## Top strip removal
+
+Removed the entire visible utility strip from the shared header. Reading preference controls are available on the Accessibility page, and the keyboard skip link remains available on focus. Updated the preference test to use that page. Re-ran the complete suite: 57 routes, eight viewport widths, nine functional groups, and zero automated accessibility violations on the 12 representative pages. The local Safari tab was refreshed to the current version.
