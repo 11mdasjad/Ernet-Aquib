@@ -1337,7 +1337,8 @@ export const verified = {
       "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
       "verified": "2026-10-24",
       "type": "Annual report",
-      "year": "2024–25"
+      "year": "2024–25",
+      "sizeBytes": 21732788
     },
     {
       "title": "Annual Report 2022–23 (Hindi)",
@@ -1373,7 +1374,8 @@ export const verified = {
       "status": "Official linked PDF; HTTP 200 and application/pdf verified; contents not fully audited",
       "verified": "2026-10-24",
       "type": "User guide",
-      "year": null
+      "year": null,
+      "sizeBytes": 2333283
     },
     {
       "title": "Domain application letter — Annexure A",
