@@ -88,6 +88,16 @@
       "width": 900,
       "height": 1350,
       "bytes": 332041
+    },
+    {
+      "file": "assets/state-emblem-india.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_India.svg",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/5/55/Emblem_of_India.svg",
+      "author": "Government of India; vector artwork via Wikimedia Commons",
+      "license": "Public-domain artwork; official insignia use restrictions remain independent of copyright",
+      "note": "Included at user request in the private reference design. Full emblem and motto retained; intrinsic proportions preserved. This inclusion does not claim authorization or government affiliation.",
+      "width": 550,
+      "height": 877
     }
   ],
   "reference_only": [

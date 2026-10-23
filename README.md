@@ -58,7 +58,7 @@ See [QA report](docs/QA.md), [visual comparison](docs/VISUAL-COMPARISON.md), [so
 
 Information was verified on **24 October 2026**. Date-specific notices are a snapshot, not a live feed. Official guidelines, invoices and notices take precedence. The registry’s August 2025 guidelines were preferred over older download checklists. Conflicting tariff pages are documented in the source audit.
 
-All institutional copy is an authored factual summary. Official emblems, restricted artwork and certification badges are not reproduced. The ERNET name is independently typeset. Licensed photography is illustrative; it does not imply that depicted facilities or students belong to ERNET. Detailed credits are in `research/assets.json` and the website Policies & Credits page.
+All institutional copy is an authored factual summary. The header uses a complete State Emblem at the user’s request from public-domain vector artwork, preserving its motto and proportions. This private reference does not claim government affiliation. Restricted ERNET artwork and certification badges are not reproduced. The ERNET name is independently typeset. Licensed photography is illustrative; it does not imply that depicted facilities or students belong to ERNET. Detailed credits are in `research/assets.json` and the website Policies & Credits page.
 
 ## Publication
 

@@ -34,3 +34,7 @@ The ministry is MeitY. Unverified sample uptime, backbone bandwidth, client coun
 `test-results/` contains local screenshots and the machine-readable test report. Desktop home and mobile home were visually inspected. Additional interior screenshots are generated for service, About, network, projects, resources, news, contact, portal, policy and event pages. Responsive geometry checks cover all routes at 320, 375, 430, 768, 1024, 1366, 1440 and 1920 pixels.
 
 No automated image-difference score is reported because the official live design and supplied target image differ, and an exact common source composition is unavailable.
+
+## Header refinement requested after review
+
+Replaced the generic building icon with the complete State Emblem of India from public-domain vector artwork. Retained the motto, black rendering and original proportions, with a 44×70 px desktop image and compact 36×58 px intermediate layout. The independent-reference disclosure remains visible.
